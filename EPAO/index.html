@@ -155,9 +155,6 @@ path {
     simulation
         .nodes(graph.nodes)
         .on("tick", ticked);
-  
-    simulation.force("link")
-        .links(graph.links);
       
     // set up the voronoi: 
     var cells = svg.selectAll()
