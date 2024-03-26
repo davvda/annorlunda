@@ -254,7 +254,8 @@
       {"id": "The spectacle", "group": "SPECTACLE"},
       {"id": "Distractions", "group": "SPECTACLE"},
       {"id": "Catastrophic risks", "group": "CATASTROPHIC RISKS"},
-      {"id": "Lack of love", "group": "LOVE"}
+      {"id": "Lack of love", "group": "LOVE"},
+      {"id": "Loneliness", "group": "COMMUNITY"}
 
 
     ],
@@ -896,6 +897,7 @@
       {"source": "Ignored externalities", "target": "Illusion of understanding", "value": 1},
       {"source": "Ignored externalities", "target": "We're all hypocrits", "value": 1},
       {"source": "Ignored externalities", "target": "Inequality", "value": 1},
+      {"source": "Ignored externalities", "target": "Mental health", "value": 1},
       {"source": "Ignored externalities", "target": "Selfishness", "value": 1},
       {"source": "Unpaid important labour", "target": "Capitalism", "value": 1},
       {"source": "Unpaid important labour", "target": "Growth", "value": 1},
@@ -3676,7 +3678,20 @@
       {"source": "Substance abuse", "target": "Addiction", "value": 1},
       {"source": "Substance abuse", "target": "Lack of compassion", "value": 1},
       {"source": "Substance abuse", "target": "Views on human nature", "value": 1},
-      {"source": "Substance abuse", "target": "Access to healthcare", "value": 1}
+      {"source": "Substance abuse", "target": "Access to healthcare", "value": 1},
+      {"source": "Loneliness", "target": "Globalisation", "value": 1},
+      {"source": "Loneliness", "target": "Reliance on tech", "value": 1},
+      {"source": "Loneliness", "target": "Social erosion", "value": 1},
+      {"source": "Loneliness", "target": "Bullshit jobs", "value": 1},
+      {"source": "Loneliness", "target": "Social media", "value": 1},
+      {"source": "Loneliness", "target": "Individualism", "value": 1},
+      {"source": "Loneliness", "target": "Lack of meaning", "value": 1},
+      {"source": "Loneliness", "target": "Lack of communities", "value": 1},
+      {"source": "Loneliness", "target": "Lack of belonging", "value": 1},
+      {"source": "Loneliness", "target": "Lack of feeling needed", "value": 1},
+      {"source": "Loneliness", "target": "Mental health", "value": 1},
+      {"source": "Loneliness", "target": "Evil", "value": 1},
+      {"source": "Loneliness", "target": "Lack of love", "value": 1}
 
     ]
     
