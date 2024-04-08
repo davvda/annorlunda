@@ -378,25 +378,359 @@ Connected to:
 - The desacration of all places
 - Unheeded warnings
 ## Planetary boundaries
+**[The planetary boundaries concept presents a set of nine planetary boundaries within which humanity can continue to develop** and thrive for generations to come](https://www.stockholmresilience.org/research/planetary-boundaries.html). These nine boundaries are: novel entities, stratospheric ozone depletion, atmospheric aerosol loading, ocean acidification, biogeochemical flows, freshwater change, land-system change, biosphere integrity, and climate change. 
 
+![[planetary_boundaries.png]]
+As can be seen in the figure we are currently [beyond six of the nine planetary boundaries](https://www.science.org/doi/10.1126/sciadv.adh2458).
+
+Connected to:
+- Energy consumption increasing
+- Ancient sunlight, old sunlight, current sunlight
+- Ignored externalities
+- Consumerism
+- Growth
+- Waste
+- Illusion of GDP decoupling
+- Material extraction
+- Limits to growth
+- Biased evidence selection
+- The notion of 'radical' options
+- Naive progress narrative
+- 'Longtermism'
+- Business-as-usual narrative
+- Solutionism
+- Reliance on tech
+- Exponential tech
+- Naive techno-optimism
+- Population increase
+- Populations entering the 'middle class'
+- Lack of agency
+- Too much speed and noise
+- Acceleration
+- Debt
+- Breakdown of information infrastructure
+- Hemispherical asymmetry (Earth)
+- Carbon fundamentalism
+- Multipolar traps
+- Moloch
+- Complexity mismatch
+- Lack of systems thinking
+- Illusion of no option
+- Ineffective institutions
+- Greenwashing
+- Sustainable growth
+- Climate footprints
+- Blaming the people
+- Finite games
+- Carelessness
+- Unheeded warnings
+- Ignoring complexity
+- Ignorance of ongoing collapse
+- Lack of the longterm
+- Lack of a living world view
+- Poisoning the water, the earth, the air
+- Ignorance of everything being sacred
+- Delusional domination of nature
+- Ignorance of interconnectedness
+- Despair
+- Directionlessness
+- Inequality
+- No respect for indigenous wisdom
+- Mass climate migration
+- Resource conflicts
+- War
+- Greed
 ## Loss of insect biomass
+Insects make up 90% of all animal species on Earth and are crucial parts of all ecosystems with pollinators being particularly important for the food supply for other animals and humans. Insect decline is a complex area to study and estimates on the rate of decline vary in different localities. A 2020 meta-analysis estimated a decline rate of 9% per decade for terrestrial insects but, notably, an increase in freshwater insects of 11% per decade. Most research, however, show declines in insects globally.
 
+> A March 2019 statement by the [Entomological Society of America](https://en.wikipedia.org/wiki/Entomological_Society_of_America "Entomological Society of America") said there was not yet sufficient data to predict an imminent mass extinction of insects and that some of the extrapolated predictions might "have been extended well past the limits of the data or have been otherwise over-hyped"
+
+I wonder what to make of the quote above. Data can always be misleading but if we are actually risking a mass extinction of insects I don't see how taking that seriously is over-hyping.
+
+> Why should we tolerate a diet of weak poisons, a home in insipid surroundings, a circle of acquaintances who are not quite our enemies, the noise of motors with just enough relief to prevent insanity? Who would want to live in a world which is just not quite fatal?
+> 
+> - Rachel Carson, Silent Spring
+
+> We urgently need an end to these false assurances, to the sugar coating of unpalatable facts. It is the public that is being asked to assume the risks that the insect controllers calculate. The public must decide whether it wishes to continue on the present road, and it can do so only when in full possession of the facts.
+> 
+>  - Rachel Carson, Silent Spring
+
+Connected to:
+- Agriculture
+- Monocultures (agriculture)
+- Carbon fundamentalism
+- Ignored externalities
+- Lack of systems thinking
+- Unheeded warnings
+- Genetic modification
+- Ignoring complexity
+- Ignoring diversity
+- The minimisation of all things wild
+- Delusional domination of nature
+- Ignorance of interconnectedness
+- Animal views
 ## Waste
+**[Waste is anything discarded as worthless or of no use](https://www.merriam-webster.com/dictionary/waste)**. To waste is to use something carelessly. The [majority of material waste comes from mining](https://ourworldindata.org/grapher/total-waste-generation) and quarrying which, in 2019, was at around 450 million tonnes compared with household material waste at around 2 million that same year. There's nothing wrong with doing your recycling to play your part but just keep that disparity in mind.
 
+> This place is a message... and part of a system of messages... pay attention to it!
+> 
+> Sending this message was important to us. We considered ourselves to be a powerful culture.
+> 
+> This place is not a place of honor... no highly esteemed deed is commemorated here... nothing valued is here.
+> 
+> What is here was dangerous and repulsive to us. This message is a warning about danger.
+> 
+> The danger is in a particular location... it increases towards a center... the center of danger is here... of a particular size and shape, and below us.
+> 
+> The danger is still present, in your time, as it was in ours.
+> 
+> The danger is to the body, and it can kill.
+> 
+> The form of the danger is an emanation of energy.
+> 
+> The danger is unleashed only if you substantially disturb this place physically. This place is best shunned and left uninhabited.
+> 
+> - Sandia National Laboratories, Long-term nuclear waste warning message
+
+> It is not that we have so little time but that we lose so much. ... The life we receive is not short but we make it so; we are not ill provided but use what we have wastefully. 
+> 
+>  - Lucius Seneca
+
+Connected to: 
+- Ignored externalities
+- Consumerism
+- Cars
+- Hemispherical asymmetry (Earth)
+- Carbon fundamentalism
+- Complexity mismatch
+- Lack of systems thinking
+- Failure to take responsibility
+- Ignorance of ongoing collapse
+- The minimisation of all things wild
+- Poisoning the water, the earth, the air
+- The desacration of all places
+- Ignorance of everything being sacred
+- Story of separation
+- Ignorance of interconnectedness
+- Lack of compassion
+- Lack of empathy
+- Cognitive dissonance
 ## Monocultures (agriculture)
+Agricultural monocultures, or the practice of monocropping, **means growing the same crop on the same land year after year**. The main reasons for monocropping is the potential overall profitability, productivity, and efficiency. Like many other predicaments agricultural monocultures provide potential short-term benefits while likely resulting in long-term cascades of problems. 
 
+> He woke once more to external reality, looked round him, knew what he saw - knew it, with a sinking sense of horror and disgust, for the recurrent delirium of his days and nights, the nightmare of swarming indistinguishable sameness.
+> 
+>  - Aldous Huxley, Brave New World
+
+Connected to:
+- Agriculture
+- Energy
+- Net negative caloric extraction
+- Ignored externalities
+- Monopolies
+- Simplifications
+- Genetic modification
+- Population increase
+- Lobbyism
+- Quantification
+- Carbon fundamentalism
+- Lack of systems thinking
+- Lack of resilient systems
+- Greenwashing
+- Sameness
+- Ignoring diversity
+- Ignoring complexity
+- Lack of the longterm
+- The minimisation of all things wild
+- Lack of a living world view
+- Poisoning the water, the earth, the air
+- The desacration of all places
+- Delusional domination of nature
+- Ignorance of interconnectedness
+- Tragedy of the vanishing commons
+- Healthcare
+- Obesity
+- Malnutrition
+- Mistreatment of animals
+- Industrial slaughter
+- Colonialist narratives
+- No respect for indigenous wisdom
+- Resource conflicts
+- Greed
 ## Agriculture
+Agriculture is the **[cultivation and caring for the fields of the Earth](https://www.etymonline.com/word/culture#etymonline_v_452)**, generally with the purpose of providing us with food but also fuels, fibers, and other raw materials. It includes crops, livestock, aquaculture, fisheries, and forestry. The introduction of agricultural practices during the Neolithic revolution more than 10,000 years ago started transitioning most of humanity from a life of hunting and gathering to a settled life of farming. It is not unreasonable to see this as the starting point of many of our predicaments. Even though that may be stating things too simplistically this change in our ways of life undeniably defines much of what life is for us in modern times. Importantly though, the magnitude of this change exploded the past 1000 years. A thousand years ago around 4% of Earth's usable land was used for warming. [This number today falls somewhere around 50%](https://ourworldindata.org/land-use). 
 
+> ...where ever food is grown the growing of it will raise the same two questions: How do you preserve the land in use? And how do you preserve the people who use the land?
+> 
+>  - Wendell Berry
+
+- Supply chain fragility
+- Globalisation
+- Global supply chains
+- Energy
+- Energy consumption increasing
+- Net negative caloric extraction
+- Monopolies
+- Growth
+- Centralisation
+- Transport and infrastructure
+- Limits to growth
+- Naive progress narrative
+- Reliance on tech
+- Genetic modification
+- Population increase
+- Lobbyism
+- Hemispherical asymmetry (Earth)
+- Quantification
+- Carbon fundamentalism
+- Hyperstimuli
+- Lack of systems thinking
+- Lack of resilient systems
+- Greenwashing
+- Ignoring diversity
+- Ignoring complexity
+- Lack of the longterm
+- Lack of a living world view
+- The minimisation of all things wild
+- Poisoning the water, the earth, the air
+- The desacration of all places
+- Delusional domination of nature
+- Story of separation
+- Ignorance of interconnectedness
+- Illusion of competence
+- Illusion of understanding
+- Tragedy of the vanishing commons
+- Lack of belonging
+- Nothing is local
+- Medications
+- Healthcare
+- Obesity
+- Malnutrition
+- Mental health
+- Mistreatment of animals
+- Animal views
+- Industrial slaughter
+- Meat eating
+- Modern slavery
+- No respect for indigenous wisdom
+- Mass climate migration
+- Resource conflicts
+- War
+- Greed
 ## Supply chain fragility
+**Fragile supply chains are sensitive to disruptions**. The COVID-19 pandemic showed clearly the lack of resilience of modern day global supply chains. As our civilisation tries to weather transition and collapse these low-probability high-impact events are likely to occur more often risking even larger disruptions to global supply chains.
 
+Connected to:
+- Globalisation
+- Global supply chains
+- Resources
+- Material extraction
+- Centralisation
+- Transport and infrastructure
+- Hemispherical asymmetry (Earth)
+- Lack of resilient systems
+- National borders
+- War
+- Selfishness
 ## Globalisation
+Globalisation is the worldwide process of interaction and integration among people, organisations, cultures, services, and more. Globalisation is sometimes seen as the stage following the (French) term mondialisation where it implies the "[the dissolution of national identities and the abolishment of borders inside the world network of economic exchanges](https://ideas.repec.org/a/ovi/oviste/vxiiy2012i2p27-30.html)". 
 
+Connected to:
+- Global supply chains
+- Capitalism
+- Resources
+- Centralisation
+- Transport and infrastructure
+- Travel
+- Air travel
+- Polarisation
+- Lack of agency
+- News
+- Social media
+- Loss of cultural complexity
+- Failure to take responsibility
+- Sameness
+- Ignoring diversity
+- Sense-making crisis
+- Culture wars
+- Monocultures (people)
+- Nothing is local
+- Pandemics
+- Modern slavery
+- Genocide
+- Colonialist narratives
+- Migration
+- Ideological conflicts
+- Resource conflicts
+- War
 ## Global supply chains
+Look around at the objects around you and try to figure out how many parts of the world have been involved in the production of those objects. **Global supply chains are spread out across the world and include the flow of information, processes, and resources.** 
 
+Connected to:
+- Profit
+- Consumerism
+- Capitalism
+- Resources
+- Material extraction
+- Transport and infrastructure
+- Naive progress narrative
+- Clock time
+- Poverty
+- Hemispherical asymmetry (Earth)
+- Lack of resilient systems
+- Nothing is local
+- Modern slavery
+- Resource conflicts
 ## Energy
+Energy is [activity and vigour](https://en.wiktionary.org/wiki/%E1%BC%90%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B1#Ancient_Greek), energy is [work](https://en.wikipedia.org/wiki/Work_(thermodynamics)), [heat](https://en.wikipedia.org/wiki/Heat), [light](https://en.wikipedia.org/wiki/Light), [flow](https://en.wikipedia.org/wiki/Time-translation_symmetry), [electricity](https://en.wikipedia.org/wiki/Electrical_energy), [sound](https://en.wikipedia.org/wiki/Sound_energy). Energy is [happiness, pleasure, and living force](https://en.wikipedia.org/wiki/Potentiality_and_actuality). Energy is life and all life needs energy. Less philosophically, we get our energy from the sun in different forms which we then use and consume in order to live.
+
+Connected:
+- Maximum power principle
+- Jevons paradox
+- Energy consumption increasing
+- Ancient sunlight, old sunlight, current sunlight
+- Net negative caloric extraction
+- Growth
+- Resources
+- Travel
+- Limits to growth
+- Exponential tech
+- Naive techno-optimism
+- Population increase
+- Acceleration
+- Hemispherical asymmetry (Earth)
+- Game theory power play
+- Lack of resilient systems
+- Greenwashing
+- Lack of the longterm
+- Obesity
+- Meat eating
+- Industrial slaughter
+- Resource conflicts
 
 ## Maximum power principle
+> The maximum power principle can be stated: During self-organization, system designs develop and prevail that maximize power intake, energy transformation, and those uses that reinforce production and efficiency.
+> 
+>  - Howard T. Odum
 
+The maximum power principle, as a fourth law of thermodynamics, is used as a principle to quantitatively describe biological evolution as **the maximum rate of useful energy transformation for any biological system**. More simply stated (by A.J. Lotka) "[the advantage must go to those organisms whose energy-capturing devices are most efficient in [using the energy for] the preservation of the species](https://en.wikipedia.org/wiki/Maximum_power_principle)".
+
+Another way of looking at it is that whoever manages to acquire and utilise the most power will live. Those who don't won't.
+
+Connected to:
+- Monopolies
+- Capitalism
+- Centralisation
+- Power concentration to the wrong people
+- Game theory power play
+- Multipolar traps
+- Colonialist narratives
+- Resource conflicts
+- Nuclear war
+- War
+- Greed
+- Evil
+- Selfishness
 ## Jevons paradox
 
 ## Energy consumption increasing
@@ -436,7 +770,6 @@ Connected to:
 ## Power concentration to the wrong people
 “Only he who has no use for the empire is fit to be entrusted with it.”
 Chuang Tzu
-
 ## Cars
 
 ## Transport and infrastructure
@@ -520,8 +853,28 @@ Do not trust men who seek to alter the world to fit their worldview, rather than
 ## Clock time
 
 ## Slow change
+Only that which can change can continue. - James Carse
 
 ## Acceleration
+We are absolutely flooring it.
+The soles of our bloodstained Converse
+almost completely worn down to bare feet,
+the heat of the pedal soon searing the skin.
+We are underage,
+under the influence,
+Wunderbaum's scent
+replaced with burnt rubber.
+We no longer know where we're headed
+but we think we've caught up
+with the horizon,
+high above the clouds.
+The infant in the backseat is still asleep.
+_As long as we're going faster,_
+we tell ourselves
+with tears or sweat or it doesn't matter
+running down our face,
+_we'll get there.
+- Me
 
 ## Inertia
 
@@ -538,6 +891,7 @@ Do not trust men who seek to alter the world to fit their worldview, rather than
 ## Weber's iron cage
 
 ## UBI blocked
+Strength is paradoxical. I am not strong because I can force others to do what I wish as a result of my play with them, but because I can allow them to do what they wish in the course of my play with them. - James Carse
 
 ## Debt
 
@@ -572,10 +926,13 @@ Do not trust men who seek to alter the world to fit their worldview, rather than
 ## News
 
 ## Hyperstimuli
+The spectacle is able to subject human beings to itself because the economy has already totally subjugated them. It is nothing other than the economy developing for itself. It is at once a faithful reflection of the production of things and a distorting objectification of the producers. - Guy Debord
 
 ## Social media
+In societies dominated by modern conditions of production, life is presented as an immense accumulation of _spectacles_. Everything that was directly lived has receded into a representation. - Guy Debord
 
 ## Attention hijacking
+**Attention** is not merely a passive act. It is a creative one. What we choose to pay attention to is what will spring up out of new sources. What we choose to ignore will wither and die. The dominating culture of our time is a culture obsessed with doing. If we're not doing something we're not doing anything. I'm open to the fact that doing nothing might be the most active thing we can do to change things. Rejecting the economies of attention to instead _attend, tend to, and show tenderness_ to the things that are needed, to that which needs our attention more than ever, that is what truly needs doing. Never before has there been such urgency to not be urgent. Pay attention. - Me
 
 ## Algorithmic curation
 
@@ -583,6 +940,11 @@ Do not trust men who seek to alter the world to fit their worldview, rather than
 
 ## Status
 
+For many generations…they obeyed the laws and loved the divine to which they were akin…they reckoned that qualities of character were far more important than their present prosperity. So they bore the burden of their wealth and possessions lightly, and did not let their high standard of living intoxicate them or make them lose their self-control…  
+  
+But when the divine element in them became weakened…and their human traits became predominant, they ceased to be able to carry their prosperity with moderation.
+
+- Plato
 ## Lack of masculine and feminine
 
 ## LGBTQ+
@@ -607,10 +969,12 @@ A simple illustrating example of a complexity mismatch with regards to ecosystem
 ## Loss of cultural complexity
 
 ## Illusion of no option
+...humans live and act in ways as fish live and act in water. We don’t notice in how many _ways_ we depend on _ways_. Being in a sea of ways is being human. - Zhuangzi
 
 ## Ineffective institutions
 
 ## Bureaucracy
+To use the machine for control is to be controlled by the machine. - James Carse
 
 ## Failure to take responsibility
 
@@ -631,6 +995,7 @@ A simple illustrating example of a complexity mismatch with regards to ecosystem
 ## Surveillence
 
 ## Oppressive tyrannies for the good of its victims
+Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive. It would be better to live under robber barons than under omnipotent moral busybodies. The robber baron's cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for our own good will torment us without end for they do so with the approval of their own conscience. They may be more likely to go to Heaven yet at the same time likelier to make a Hell of earth. This very kindness stings with intolerable insult. - CS LEWIS
 
 ## Madness of safety
 
@@ -639,12 +1004,16 @@ A simple illustrating example of a complexity mismatch with regards to ecosystem
 ## Craft
 
 ## Lack of quiet spaces
+The issue which I propose for discussion should therefore be clear: how to counter the encroachment of new, electronic devices and systems upon commons that are more subtle and more intimate to our being than either grassland or roads - commons that are at least as valuable as silence. Silence, according to western and eastern tradition alike, is necessary for the emergence of persons. It is taken from us by machines that ape people. We could easily be made increasingly dependent on machines for speaking and for thinking, as we are already dependent on machines for moving. - Ivan Illich
 
 ## Car-centric design
 
 ## Quality
 
 ## Architecture
+> The world of utility and the world of beauty are not separate realms.
+> 
+>  - Soetsu Yanagi, The Beauty of Everyday Things
 
 ## Sameness
 
@@ -654,6 +1023,10 @@ A simple illustrating example of a complexity mismatch with regards to ecosystem
 “The quality that we call beauty, however, must always grow from the realities of life, and our ancestors, forced to live in dark rooms, presently came to discover beauty in shadows, ultimately to guide shadows towards beauty’s ends.” - Tanizaki
 
 ## The death of creative work
+Writing shit about new snow
+for the rich
+is not art.
+- Kobayashi Issa
 
 ## Enshittification
 
@@ -684,7 +1057,19 @@ A simple illustrating example of a complexity mismatch with regards to ecosystem
 ## Lack of historical insight
 
 ## The minimisation of all things wild
+In the middle of the forest there’s an unexpected clearing that can only be found by those who have gotten lost.
 
+The clearing is surrounded by a forest that is choking itself. Black trunks with the lichen’s bristly beard. The jammed trees are dead all the way to the top, there a few solitary green branches touch the light. Underneath:  
+shadows sitting on the shadows, the marsh increasing.
+
+But in the clearing the grass is curiously green and alive. Big stones lie around as if placed that way. They must have been foundation stones for a house, maybe I’m wrong. Who lived there? No one can help with that. The name sleeps somewhere in the archive no one opens (only archives remain young). The oral tradition is dead, and with it the memories. The gypsy tribe remembers, but those who can write forget. Write it down and forget it.
+
+This little house hums with voices. It is the center of the world. But the people in it die or move away. The history ends. The place stands empty year after year. Ant he crofter’s house becomes a sphinx. At the end everything has gone away except the foundation stones.
+
+I’ve been here before somehow, but it’s time to leave. I dive in among the briary underbrush. To get through it you have to take one step forward and two steps to the side, like a chess piece. Slowly it thins out and the light increases. My steps grow longer. A path wiggles its way toward me. I am back in the communications net.
+
+On the humming high voltage pole a beetle sits in the sun. Under his gleaming shoulders his flight wings are lying, folded as ingeniously as a parachute packed by an expert.
+- Tomas Tranströmer
 ## Ignorance of the mystical
 
 ## Ignorance of the mythical
@@ -746,6 +1131,8 @@ A simple illustrating example of a complexity mismatch with regards to ecosystem
 ## Illusion of understanding
 
 ## Sense-making crisis
+It is quite usual for us to gather pieces of information from various sources,  
+thinking in this way to increase our knowledge. Actually, following this way we end up not knowing anything at all... Instead of gathering knowledge, you should clear your mind. If your mind is clear, true knowledge is already yours. - Shunryu Suzuki
 
 ## Knowledge isn't wisdom
 
@@ -754,6 +1141,7 @@ A simple illustrating example of a complexity mismatch with regards to ecosystem
 ## Monocultures (people)
 
 ## Educational crisis
+To be prepared against surprise is to be trained. To be prepared for surprise is to be educated. - James Carse
 
 ## Education is indoctrination
 
@@ -818,7 +1206,7 @@ A simple illustrating example of a complexity mismatch with regards to ecosystem
 ## Meat eating
 
 ## Industrial slaughter
-
+We are definitely different from the bad people in history. The immoral fools tricked by Hitler into saluting the iron cross and casting their votes in favour of genocide, the spiritually corrupt slave traders of the colonies in Africa, the Europeans pillaging and raping (culturally and literally) the indigenous people of the "new worlds" of America, Australia, etc; the brilliant geniuses talked into developing the atom bomb, the monsters who then dropped those bombs over Japan in the name of peace. We are definitely different from them. *The most efficient systematic slaughter of sentient beings the planet has ever seen*, the complete indifference to the ecocide required for our day-to-day lives, the endless belief in infinite growth on a finite planet, the quantification of all that is sacred into mere resources and business opportunities, the utter carelessness toward the world our children will inherit. All this we manage to stand for in the name of progress and human kind's superiority over all others. No, we are definitely different. We are worse. - Me
 ## Sexism
 
 ## Mistreatment of other humans
@@ -857,6 +1245,7 @@ A simple illustrating example of a complexity mismatch with regards to ecosystem
 ## Selfishness
 
 ## Views on human nature
+We keep studying human nature in systems that keep creating its corruption - Me
 
 ## Access to water
 
@@ -881,3 +1270,17 @@ A simple illustrating example of a complexity mismatch with regards to ecosystem
 ## Lack of love
 
 ## Loneliness
+
+## Useless elders
+> 156. Settled work
+> ### Problem
+> 
+> The experience of settled work is a prerequisite for peace of mind in old age. Yet our society undermines this experience by making a rift between working life and retirement, and between workplace and home.
+> 
+> ### Solution
+> 
+> Give each person, especially as they grow old, the chance to set up a workplace of their own, within or very near their home. Make it a place that can grow slowly, perhaps in the beginning sustaining a weekend hobby and gradually becoming a complete, productive, and comfortable workshop
+
+
+
+

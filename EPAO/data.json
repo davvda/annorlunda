@@ -255,9 +255,8 @@
       {"id": "Distractions", "group": "SPECTACLE"},
       {"id": "Catastrophic risks", "group": "CATASTROPHIC RISKS"},
       {"id": "Lack of love", "group": "LOVE"},
-      {"id": "Loneliness", "group": "COMMUNITY"}
-
-
+      {"id": "Loneliness", "group": "COMMUNITY"},
+      {"id": "Useless elders", "group": "POPULATION"}
     ],
     "links": [
       {"source": "Soil erosion", "target": "Tipping points", "value": 1},
@@ -737,6 +736,20 @@
       {"source": "Globalisation", "target": "Ideological conflicts", "value": 1},
       {"source": "Globalisation", "target": "Resource conflicts", "value": 1},
       {"source": "Globalisation", "target": "War", "value": 1},
+      {"source": "Global supply chains", "target": "Profit", "value": 1},
+      {"source": "Global supply chains", "target": "Consumerism", "value": 1},
+      {"source": "Global supply chains", "target": "Capitalism", "value": 1},
+      {"source": "Global supply chains", "target": "Resources", "value": 1},
+      {"source": "Global supply chains", "target": "Material extraction", "value": 1},
+      {"source": "Global supply chains", "target": "Transport and infrastructure", "value": 1},
+      {"source": "Global supply chains", "target": "Naive progress narrative", "value": 1},
+      {"source": "Global supply chains", "target": "Clock time", "value": 1},
+      {"source": "Global supply chains", "target": "Poverty", "value": 1},
+      {"source": "Global supply chains", "target": "Hemispherical asymmetry (Earth)", "value": 1},
+      {"source": "Global supply chains", "target": "Lack of resilient systems", "value": 1},
+      {"source": "Global supply chains", "target": "Nothing is local", "value": 1},
+      {"source": "Global supply chains", "target": "Modern slavery", "value": 1},
+      {"source": "Global supply chains", "target": "Resource conflicts", "value": 1},
       {"source": "Energy", "target": "Maximum power principle", "value": 1},
       {"source": "Energy", "target": "Jevons paradox", "value": 1},
       {"source": "Energy", "target": "Energy consumption increasing", "value": 1},
@@ -3693,8 +3706,24 @@
       {"source": "Loneliness", "target": "Lack of feeling needed", "value": 1},
       {"source": "Loneliness", "target": "Mental health", "value": 1},
       {"source": "Loneliness", "target": "Evil", "value": 1},
-      {"source": "Loneliness", "target": "Lack of love", "value": 1}
-
+      {"source": "Loneliness", "target": "Lack of love", "value": 1},
+      {"source": "Loneliness", "target": "Useless elders", "value": 1},
+      {"source": "Useless elders", "target": "Waste", "value": 1},
+      {"source": "Useless elders", "target": "Unpaid important labour", "value": 1},
+      {"source": "Useless elders", "target": "Biased evidence selection", "value": 1},
+      {"source": "Useless elders", "target": "Reliance on tech", "value": 1},
+      {"source": "Useless elders", "target": "Population increase", "value": 1},
+      {"source": "Useless elders", "target": "Poverty", "value": 1},
+      {"source": "Useless elders", "target": "Lack of masculine and feminine", "value": 1},
+      {"source": "Useless elders", "target": "Blaming the people", "value": 1},
+      {"source": "Useless elders", "target": "The death of creative work", "value": 1},
+      {"source": "Useless elders", "target": "Wisdom crisis", "value": 1},
+      {"source": "Useless elders", "target": "Lack of meaning", "value": 1},
+      {"source": "Useless elders", "target": "Parenting", "value": 1},
+      {"source": "Useless elders", "target": "Lack of communities", "value": 1},
+      {"source": "Useless elders", "target": "Lack of feeling needed", "value": 1},
+      {"source": "Useless elders", "target": "Elderly care", "value": 1}
     ]
     
   }
+
