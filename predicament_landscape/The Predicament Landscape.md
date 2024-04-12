@@ -732,32 +732,292 @@ Connected to:
 - Evil
 - Selfishness
 ## Jevons paradox
+[In economics, the Jevons paradox occurs when **technological progress increases the efficiency with which a resource is used, but the falling cost of use induces increases in demand enough that resource use is increased, rather than reduced**.](https://en.wikipedia.org/wiki/Jevons_paradox) This was originally related to the efficiency and increase in coal use. As technology improves energy efficiency we end up using more rather than less of the resource required for the activity. There is, in other words, always an important nuance to any discussion related to technological advances that promise increased efficiency in that they potentially worsen the problem they claim to solve. 
 
+Connected to:
+- Energy consumption increasing
+- Net negative caloric extraction
+- Growth
+- Illusion of GDP decoupling
+- Resources
+- Material extraction
+- Limits to growth
+- Naive progress narrative
+- Naive techno-optimism
+- Delusional domination of nature
+- Illusion of understanding
+- Resource conflicts
 ## Energy consumption increasing
+The last 100 years have seen an increase in global yearly energy consumption from around [10,000 TWh to 180,000 TWh](https://ourworldindata.org/energy-production-consumption), **an increase of 1800%**. Oil, coal, and natural gas make up around 75% of current energy consumption. 
 
+Connected to:
+- Net negative caloric extraction
+- Ignored externalities
+- Consumerism
+- Growth
+- Illusion of GDP decoupling
+- Travel
+- Business-as-usual narrative
+- Only 'can we' never 'should we'
+- Population increase
+- Populations entering the 'middle class'
+- Hemispherical asymmetry (Earth)
+- Carbon fundamentalism
+- Greenwashing
+- Sustainable growth
+- Individualism
+- Hedonism
+- Obesity
+- Cognitive dissonance
+- Greed
+- Selfishness
 ## Ancient sunlight, old sunlight, current sunlight
+All of our energy originally comes from sunlight. The industrial revolution was in many ways made possible by the extraction and utilisation of stored ancient sunlight in the form of oil. How we choose to divide our usage of ancient, old, and current sunlight is one way of looking at managing our energy predicament.
 
+Connected to:
+- Growth
+- Resources
+- Material extraction
+- Finite games
 ## Net negative caloric extraction
+In the U.S. [approximately 7 calories are used to produce 1 calorie of food](https://www.researchgate.net/publication/303895662_The_Food_and_Farming_Transition) energy. This ratio combined with the [exosomatic energy use](http://www.ejolt.org/2012/12/human-energy-use-endosomatic-exosomatic/) presents a picture of a highly **in**efficient food system.
 
+Connected to:
+- Capitalism
+- Material extraction
+- Only 'can we' never 'should we'
+- Naive techno-optimism
+- Skewed data
+- Lack of systems thinking
+- Greenwashing
+- Illusion of understanding
+- Meat eating
+- Industrial slaughter
 ## Profit
+[Profit is the difference between revenue and total costs for an economic entity](https://en.wikipedia.org/wiki/Profit_(economics)). It is the main method for companies to grow, advance, and succeed in a capitalist system. Profit maximisation tends to be the top priority of most companies, driving costs down and production/revenue up. 
 
+Connected to:
+- Ignored externalities
+- Yuppie dystopia
+- Investing
+- Monopolies
+- Capitalism
+- Growth
+- Resources
+- Material extraction
+- Power concentration to the wrong people
+- Business-as-usual narrative
+- Only 'can we' never 'should we'
+- Big tech
+- Exponential tech
+- Lobbyism
+- Bullshit jobs
+- Poverty
+- UBI blocked
+- Debt
+- Social media
+- Attention hijacking
+- Algorithmic curation
+- Game theory power play
+- Sustainable growth
+- Finite games
+- Ignorance of ongoing collapse
+- The minimisation of all things wild
+- The capitalisation of all rituals
+- Story of separation
+- Individualism
+- Tragedy of the vanishing commons
+- Immoral justifications
+- Industrial slaughter
+- Mistreatment of other humans
+- Inequality
+- Modern slavery
+- Colonialist narratives
+- Resource conflicts
+- Greed
+- Selfishness
 ## Advertising
+Advertisements try to [turn us and direct us](https://www.etymonline.com/word/advertisement) towards something, trying to affect our awareness of the world around us, generally with the purpose of having us buy or want something. **[Advertising is the practice employed to bring attention to a product or service.](https://en.wikipedia.org/wiki/Advertising).** 
 
+> It did what all ads are supposed to do: create an anxiety relievable by purchase.
+> 
+>  - David Foster Wallace, Infinite Jest
+
+Connected to:
+- Yuppie dystopia
+- Consumerism
+- Bullshit jobs
+- Propaganda
+- Noise to signal ratio
+- News
+- Hyperstimuli
+- Social media
+- Attention hijacking
+- Algorithmic curation
+- Lack of quiet spaces
+- Enshittification
+- Obesity
 ## Ignored externalities
+An **externality is a cost or benefit caused by one party but incurred or received by another**. It is important to think of externalities not just as financial. More generally then, externalities are events occurring as a byproduct of another event. Many (most?) externalities of the modern economy are ignored and following the connections of current predicaments it is not an unreasonable claim that most predicaments are externalities to the current economic system. 
 
+Connected to:
+- Investing
+- Capitalism
+- Growth
+- Illusion of GDP decoupling
+- Resources
+- Material extraction
+- Electric vehicle solutions
+- Limits to growth
+- Biased evidence selection
+- Simplifications
+- Solutionism
+- Only 'can we' never 'should we'
+- Reliance on tech
+- Naive techno-optimism
+- Breakdown of information infrastructure
+- Disinformation
+- Hemispherical asymmetry (Earth)
+- Skewed data
+- Carbon fundamentalism
+- Lack of systems thinking
+- Failure to take responsibility
+- Greenwashing
+- Carelessness
+- Ignoring complexity
+- Delusional domination of nature
+- Avoiding uncertainty
+- Illusion of understanding
+- We're all hypocrits
+- Inequality
+- Mental health
+- Selfishness
 ## Unpaid important labour
+While Adam Smith, the "Father of Capitalism", wrote "It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest" he lived with his mother who cared, cooked, and cleaned for him with, I wonder, only a regard to her own interest? **Much important work goes unpaid and much unimportant work goes highly paid**. When progress in equality means both men and women can spend more time working for others and less time caring for their family and local community there must've been a fork in the road when we weren't looking.
 
+Connected to:
+- Capitalism
+- Growth
+- Populations entering the 'middle class'
+- Bullshit jobs
+- Weber's iron cage
+- UBI blocked
+- Lack of masculine and feminine
+- Loss of cultural complexity
+- Unemployment being bad
+- Meaning crisis
+- Parenting
+- Lack of communities
+- Lack of belonging
+- Elderly care
+- Modern slavery
+- Views on human nature
 ## Yuppie dystopia
+**A seeming utopia for the young urban professional is a dystopia for everyone**. Living a good life means getting a new Macbook every year while not knowing any of your neighbours. Rise and grind.
 
+![[Pasted image 20240410092520.png]]
+
+Connected to:
+- Consumerism
+- Investing
+- Monopolies
+- Capitalism
+- Power concentration to the wrong people
+- Travel
+- Air travel
+- Electric vehicle solutions
+- Business-as-usual narrative
+- Naive techno-optimism
+- Bullshit jobs
+- Sedentary lifestyles
+- Hyperstimuli
+- Social media
+- Status
+- Virtue signalling
+- Oppressive tyrannies for the good of its victims
+- Architecture
+- Sameness
+- Enshittification
+- Individualism
+- Illusion of competence
 ## Consumerism
+Consuming means [using up](https://www.etymonline.com/word/consume). Consumerism is a social and economic order in which the aspirations of individuals include using up more than is necessary for survival. Consumerism is mainly the result of free markets and the notion that **[the free choice of the consumers is what should orient the economic organisation of a society](https://en.wikipedia.org/wiki/Consumerism)**. Coincidentally, this gives companies a clear reason to blame the consumers for any externalities caused in the production of the products and services the consumers want and need. It isn't the companies fault that they just follow the will of the people, right?
 
+Connected to:
+- Capitalism
+- Growth
+- Travel
+- Air travel
+- Business-as-usual narrative
+- Populations entering the 'middle class'
+- Debt
+- Hyperstimuli
+- Identity
+- Status
+- Blaming the people
+- Virtue signalling
+- Enshittification
+- Lack of the longterm
+- Individualism
+- Hedonism
+- Addiction
 ## Investing
+An investment is **[the commitment of resources to achieve later benefits](https://en.wikipedia.org/wiki/Investment)**. There are many types of investments such as stocks, bonds, cash, real estate, loans, cryptocurrencies, and more. Investments must include the notion of ownership and for an investment to be successful it usually means that either you won and someone else lost (zero-sum) or whatever area you invested in grew financially. Another important point is that any investment into something is an action that tries to shape the world, meaning that whatever is invested in will be pushed to succeed while whatever isn't invested in will be ignored. [Dressing parts of the future in your own colours](https://www.etymonline.com/word/invest) makes you wonder what future generations will think of the ruins covered in our tattered robes.
 
+Connected to:
+- Capitalism
+- Growth
+- Centralisation
+- Power concentration to the wrong people
+- Business-as-usual narrative
+- Naive techno-optimism
+- Lobbyism
+- Poverty
+- Fear
+- UBI blocked
+- Debt
+- Game theory power play
+- Illusion of no option
+- Virtue signalling
+- Individualism
+- Colonialist narratives
+- Greed
+- Selfishness
+- Views on human nature
 ## Monopolies
+**[The exclusive control of trades](https://www.etymonline.com/search?q=monopoly)** dissolves the utopian illusion of a free market. Those who control what is sold also control what can be bought and since we become what we consume the controllers of the market control what we become. 
 
+Connected to:
+- Capitalism
+- Centralisation
+- Power concentration to the wrong people
+- Big tech
+- Democracy failing
+- Lobbyism
+- Game theory power play
+- Sameness
+- Monocultures (people)
+- Evil
 ## Capitalism
+**[Capitalism is an economic system in which the means of production and distribution are privately or corporately owned and development occurs through the accumulation and reinvestment of profits gained in a free market](https://www.merriam-webster.com/dictionary/capitalism)**.
+
+
+> It's easier to imagine the end of the world than the end of capitalism.
+> 
+>  - Mark Fisher
+
+> We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings. Resistance and change often begin in art, and very often in our art, the art of words.
+> 
+>  - Ursula K. Le Guin
+
+> ...all the operations of capitalism were as meaningless to him as the rites of a primitive religion, as barbaric, as elaborate, and as unnecessary. In a human sacrifice to deity there might be at least a mistaken and terrible beauty; in the rites of the moneychangers, where greed, laziness, and envy were assumed to move all men's acts, even the terrible became banal.
+> 
+>  - Ursula K. Le Guin
 
 ## Growth
+> Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius — and a lot of courage — to move in the opposite direction.
+>  
+> - Schumacher
 
 ## Illusion of GDP decoupling
 
@@ -766,13 +1026,17 @@ Connected to:
 ## Material extraction
 
 ## Centralisation
+When small men begin to cast big shadows, it means that the sun is about to set. - Lin Yutang
 
 ## Power concentration to the wrong people
 “Only he who has no use for the empire is fit to be entrusted with it.”
 Chuang Tzu
+
+I felt like a punk who’d gone out to buy a switchblade and come home with a small neutron bomb. "Screwed again", I thought. "What good’s a neutron bomb in a streetfight?” - William Gibson, Neuromancer
 ## Cars
 
 ## Transport and infrastructure
+https://devon.postach.io/post/the-road-to-hell-is-paved-with-asphalt
 
 ## Public transport
 
@@ -794,6 +1058,7 @@ Chuang Tzu
 ## Hobbesian views
 
 ## The notion of 'radical' options
+I've been cordially invited to join the visceral realists. I accepted, of course. There was no initiation ceremony. It was better that way. - Roberto Bolano
 
 ## Being reasonable
 “There are so many different kinds of stupidity, and cleverness is one of the worst.” - Thomas Mann
@@ -879,6 +1144,7 @@ _we'll get there.
 ## Inertia
 
 ## Lack of time
+In philosophy if you aren't moving at a snail's pace you aren't moving at all. - Iris Murdoch
 
 ## End of history
 
@@ -910,6 +1176,7 @@ Strength is paradoxical. I am not strong because I can force others to do what I
 ## Hemispherical asymmetry (Earth)
 
 ## Information isn't knowledge
+Nothing happened today. And if anything did, I’d rather not talk about it, because I didn’t understand it. - Roberto Bolano
 
 ## Skewed data
 
@@ -926,7 +1193,7 @@ Strength is paradoxical. I am not strong because I can force others to do what I
 ## News
 
 ## Hyperstimuli
-The spectacle is able to subject human beings to itself because the economy has already totally subjugated them. It is nothing other than the economy developing for itself. It is at once a faithful reflection of the production of things and a distorting objectification of the producers. - Guy Debord
+
 
 ## Social media
 In societies dominated by modern conditions of production, life is presented as an immense accumulation of _spectacles_. Everything that was directly lived has receded into a representation. - Guy Debord
@@ -958,7 +1225,7 @@ But when the divine element in them became weakened…and their human traits bec
 ## Complexity mismatch
 For a system to be resilient it is required to have **complex responses to complex threats**. When the behaviour of the threat is more complex than the response of the system it is unlikely that the system will respond in a way that ensures its continued existence. This is a complexity mismatch.
 
-A simple illustrating example of a complexity mismatch with regards to ecosystems could be comparing an old growth forest and a planted forest. An old growth forest consisting of an intricate web of thousands or millions of organisms all contributing to the maintenance of their dwelling place (*oikos/eco*) makes it resilient to change, its complexity creating a nearly infinite amount of responses to any major destabilising event. In contrast to this a planted forest consisting of a single type of tree will most likely not have the time or the conditions to develop much complexity leading to the possibility that even a minor destabilising event causes a complete collapse. 
+A simple illustrating example of a complexity mismatch with regards to ecosystems could be comparing an old growth forest and a planted forest. An old growth forest consisting of an intricate web of thousands or millions of organisms all contributing to the maintenance of their dwelling place (*oikos/eco*) makes it resilient to change, its complexity creating a nearly infinite amount of responses to any major destabilising event. In contrast to this a planted forest consisting of a single type of tree will most likely not have the time or the conditions to develop much complexity leading to the risk that even a minor destabilising event causes a complete collapse. 
 
 ## Lack of agency
 
@@ -1262,12 +1529,20 @@ We keep studying human nature in systems that keep creating its corruption - Me
 ## Government
 
 ## The spectacle
+The spectacle is able to subject human beings to itself because the economy has already totally subjugated them. It is nothing other than the economy developing for itself. It is at once a faithful reflection of the production of things and a distorting objectification of the producers. - Guy Debord
 
 ## Distractions
 
 ## Catastrophic risks
 
+The real existential risk is a loss of the ability to make sense of the world around us: what is worth doing, and what the likely effects of things will be. - Daniel Schmachtenberger
+
+As technology is empowering our choices and we are getting something like the power of gods, you have to have something like the love and the wisdom of gods to wield that or you self-destruct. - Daniel Schmachtenberger
+
 ## Lack of love
+What is required is an attentive response to something real and other than ourselves, of which we have only inklings at first, but which comes more and more into being through our response to it – if we are truly responsive to it. We nurture it into being; or not. In this it has something of the structure of love. - Iain McGilchrist
+
+Love is the Extremely difficult realization that something other than oneself is real - Iris Murdoch
 
 ## Loneliness
 
@@ -1280,6 +1555,351 @@ We keep studying human nature in systems that keep creating its corruption - Me
 > ### Solution
 > 
 > Give each person, especially as they grow old, the chance to set up a workplace of their own, within or very near their home. Make it a place that can grow slowly, perhaps in the beginning sustaining a weekend hobby and gradually becoming a complete, productive, and comfortable workshop
+
+
+
+
+## ECOLOGICAL, ENERGY, TIME, OTHER ANIMALS ÄR EN EGEN KONTINENT/Ö
+
+ECOLOGICAL (stor bit land nära en havskust)
+	Soil erosion (sprickor och jordskred nära deforestation)
+	Pollution (röken från däckberget)
+	Tipping points (en sten på toppen av ett berg)
+	Ecological crisis (hela området)
+	Extreme weather (tornado i öknen)
+	Biodiversity loss (kodöskalle i öknen)
+	Desertification (öken vid kanten av kalhygge)
+	Deforestation (kalhygge)
+	Climate change (elden från däcken)
+	Microplastics (flod från däckberget)
+	Ocean acidification (flytande sjöstjärna)
+	Planetary boundaries (flytande badboll med longlatlinjer)
+	Loss of insect biomass (bikupor i kalhygget)
+	Waste (däckberg)
+	Monocultures (majsfält)
+	Agriculture (majsfält + betesdjur)
+
+ENERGY 
+	Maximum power principle
+	Jevons paradox
+	Energy consumption increasing
+	Ancient sunlight, old sunlight, current sunlight
+	Net negative caloric extraction
+
+TIME
+	Too much speed and noise
+	Clock time (ett klocktorn)
+	Slow change
+	Acceleration
+	Inertia
+	Lack of time
+	End of history
+
+OTHER BEINGS
+	Mistreatment of animals
+	Animal views
+	Meat eating (kossor vid agriculture)
+	Industrial slaughter (slakthus vid agriculture)
+## SYSTEMS, WISDOM, SACRED, SEPARATION, MEANING, SENSE-MAKING, LOVE ÄR EN EGEN KONTINENT/Ö
+
+SYSTEMS & COMPLEXITY
+	Multipolar traps - SYSTEMS/COMPLEXITY
+	Moloch - SYSTEMS/COMPLEXITY
+	Game theory power play - SYSTEMS/COMPLEXITY
+	Complexity mismatch - SYSTEMS/COMPLEXITY
+	Lack of agency - SYSTEMS/COMPLEXITY
+	Lack of systems thinking - SYSTEMS/COMPLEXITY
+	Lack of resilient systems - SYSTEMS/COMPLEXITY
+	Loss of cultural complexity - SYSTEMS/COMPLEXITY
+	Illusion of no option - SYSTEMS/COMPLEXITY
+	Ineffective institutions - SYSTEMS/COMPLEXITY
+	Bureaucracy - SYSTEMS/COMPLEXITY
+	Failure to take responsibility - SYSTEMS/COMPLEXITY
+	Faulty meta-optimisation - SYSTEMS/COMPLEXITY
+
+WISDOM -> Stor urskog
+	Lack of balance - WISDOM (något på åsen som tippar över)
+	Hemispherical asymmetry (Brain) - WISDOM (en ås som splittar visdomsskogen i höger och vänster hjärnhalva)
+	Wisdom crisis - WISDOM (stor urskog)
+	Lack of humility - WISDOM (högre träd än de andra med kal topp)
+	Finite games - WISDOM (båt mot vattenfall)
+	Carelessness - WISDOM (en brasa i skogen)
+	Map and territory - WISDOM (skylt vid flodmöte)
+	Unheeded warnings - WISDOM (fors i floden)
+	Ignoring diversity - WISDOM (flod som joinar stora floden)
+	Ignoring complexity - WISDOM (flod som joinar stora floden)
+	Ignorance of ongoing collapse - WISDOM (vattenfall)
+	Lack of the longterm - WISDOM (sjö)
+	Lack of historical insight - WISDOM (dött träd som vresbokarna)
+
+NOTHING IS SACRED
+	The minimisation of all things wild - NOTHING IS SACRED (några nedhuggna gamla träd)
+	Ignorance of the mystical - NOTHING IS SACRED (en tjärn)
+	Ignorance of the mythical - NOTHING IS SACRED (en stående sten)
+	Out of touch with seasons - NOTHING IS SACRED (växthus)
+	Lack of a living world view - NOTHING IS SACRED (shintostaty)
+	Spiritual metacrisis - NOTHING IS SACRED (tempel)
+	Poisoning the water, the earth, the air - NOTHING IS SACRED (vulkan med rinnande lava)
+	Lack of attentiveness - NOTHING IS SACRED (watchtower på berg)
+	The capitalisation of all rituals - NOTHING IS SACRED
+	The desacration of all places - NOTHING IS SACRED (berg)
+	Ignorance of everything being sacred - NOTHING IS SACRED (berg i en bergskedja)
+
+SEPARATION
+	Delusional domination of nature - SEPARATION
+	Story of separation - SEPARATION (öken omringat av en mur)
+	No connection to nature - SEPARATION (muren)
+	Ignorance of interconnectedness - SEPARATION (orm)
+
+MEANING -> En djup insjö som döda havet vid SEPARATION-öknen
+	Despair - MEANING (klippa vid ena sidan av sjön)
+	Apathy - MEANING (klippa vid andra sidan sjön)
+	Ego - MEANING (en stenhög)
+	Lack of visions - MEANING (en krossad fyr)
+	Individualism - MEANING (segelbåt)
+	Directionlessness - MEANING (meandering flod från sjön till havet)
+	Lack of meaning - MEANING (sjön)
+	Lack of purpose - MEANING (segelbåt utan segel)
+	Lack of faith in anything - MEANING (en fiskeboj eller flöte)
+	Nihilism - MEANING (vortex i vattnet)
+	Hedonism - MEANING (hajfena)
+	Meaning crisis - MEANING (döda havet)
+
+SENSE-MAKING
+	Avoiding uncertainty - SENSE-MAKING (fågelskrämma)
+	Dogmatism - SENSE-MAKING (Gamla tågspår)
+	Illusion of competence - SENSE-MAKING (vattenmassa i träsket)
+	Illusion of understanding - SENSE-MAKING (Vattenmassa i träsket)
+	Sense-making crisis - SENSE-MAKING (TRÄSK)
+	Knowledge isn't wisdom - SENSE-MAKING (stort pilträd)
+
+LOVE (trädgård)
+## GLOBALISATION, ECONOMICAL, POWER, INFRASTRUCTURE, PROGRESS, TECHNOLOGICAL, POPULATION, DEMOCRACY, WORK ÄR EN EGEN KONTINENT/Ö
+
+GLOBALISATION
+	Supply chain fragility - GLOBALISATION (kantrad containerfartyg)
+	Globalisation - GLOBALISATION (radiotorn)
+	Global supply chains - GLOBALISATION (containerfartyg)
+
+ECONOMY
+	Profit - ECONOMICAL
+	Advertising - ECONOMICAL
+	Ignored externalities - ECONOMICAL
+	Unpaid important labour - ECONOMICAL
+	Yuppie dystopia - ECONOMICAL
+	Consumerism - ECONOMICAL
+	Investing - ECONOMICAL
+	Monopolies - ECONOMICAL
+	Capitalism - ECONOMICAL
+	Growth - ECONOMICAL 
+	Illusion of GDP decoupling - ECONOMICAL
+	Resources - ECONOMICAL
+	Material extraction - ECONOMICAL
+
+POWER
+	Centralisation - POWER
+	Power concentration to the wrong people - POWER
+
+INFRASTRUCTURE
+	Cars - INFRASTRUCTURE
+	Transport and infrastructure - INFRASTRUCTURE
+	Public transport - INFRASTRUCTURE
+	Traffic noise - INFRASTRUCTURE
+	Travel - INFRASTRUCTURE
+	Air travel - INFRASTRUCTURE
+	Electric vehicle solutions - INFRASTRUCTURE
+
+PROGRESS
+	Limits to growth - PROGRESS NARRATIVE
+	Biased evidence selection - PROGRESS NARRATIVE
+	Simplifications - PROGRESS NARRATIVE
+	Hobbesian views - PROGRESS NARRATIVE
+	The notion of 'radical' options - PROGRESS NARRATIVE
+	Being reasonable - PROGRESS NARRATIVE
+	Rationalism - PROGRESS NARRATIVE
+	Naive progress narrative - PROGRESS NARRATIVE
+	'Longtermism' - PROGRESS NARRATIVE
+	Business-as-usual narrative - PROGRESS NARRATIVE
+	Reductionism - PROGRESS NARRATIVE
+	Solutionism - PROGRESS NARRATIVE
+	Only 'can we' never 'should we' - PROGRESS NARRATIVE
+
+TECHNOLOGY
+	AI - TECHNOLOGICAL
+	Reliance on tech - TECHNOLOGICAL
+	Big tech - TECHNOLOGICAL
+	Exponential tech - TECHNOLOGICAL
+	Genetic modification - TECHNOLOGICAL
+	Synthetic biology - TECHNOLOGICAL
+	Naive techno-optimism - TECHNOLOGICAL
+	Naive techno-pessimism - TECHNOLOGICAL
+
+POPULATION
+	Population increase - POPULATION
+	Access to water - POPULATION
+	Access to food - POPULATION
+	Access to healthcare - POPULATION
+	Populations entering the 'middle class' - POPULATION
+	Useless elders - POPULATION (böjda fläderträd)
+
+DEMOCRACY
+	Democracy failing - DEMOCRACY
+	Polarisation - DEMOCRACY
+	Social erosion - DEMOCRACY
+	Fear - DEMOCRACY
+	Dispositionism - DEMOCRACY
+	Lobbyism - DEMOCRACY
+	Laws - DEMOCRACY
+	Government - DEMOCRACY
+	Chaos or oppression (ny) - DEMOCRACY
+
+WORK/LIFE
+	Bullshit jobs - WORK/LIFE
+	Poverty - WORK/LIFE
+	Sedentary lifestyles - WORK/LIFE
+	Weber's iron cage - WORK/LIFE
+	UBI blocked - WORK/LIFE
+	Debt - WORK/LIFE
+	Cost of living - WORK/LIFE
+
+---
+
+## INFORMATION, SPECTACLE, IDENTITY, BULLSHIT, SECURITY, ENSHITTIFICATION ÄR EN EGEN KONTINENT/Ö
+
+INFORMATION
+	Propaganda - INFORMATION
+	Misinformation - INFORMATION
+	Breakdown of information infrastructure - INFORMATION
+	Noise to signal ratio - INFORMATION
+	Disinformation - INFORMATION
+	Hemispherical asymmetry (Earth) - INFORMATION
+	Information isn't knowledge - INFORMATION
+	Skewed data - INFORMATION
+	Quantification - INFORMATION
+	Overreliance on data - INFORMATION
+	Carbon fundamentalism - INFORMATION
+	Data privacy - INFORMATION
+
+SPECTACLE
+	Connectivity - SPECTACLE
+	News - SPECTACLE
+	Hyperstimuli - SPECTACLE
+	Social media - SPECTACLE
+	Attention hijacking - SPECTACLE
+	Algorithmic curation - SPECTACLE
+	The spectacle - SPECTACLE
+	Distractions - SPECTACLE
+
+IDENTITY
+	Identity - IDENTITY
+	Status - IDENTITY
+	Lack of masculine and feminine - IDENTITY
+	LGBTQ+ - IDENTITY
+
+BULLSHIT
+	Greenwashing - BULLSHIT
+	Sustainable growth - BULLSHIT
+	Climate footprints - BULLSHIT (fotsteg i jorden)
+	Blaming the people - BULLSHIT
+	Virtue signalling - BULLSHIT
+	Unemployment being bad - BULLSHIT
+
+SECURITY
+	Surveillence - SECURITY
+	Oppressive tyrannies for the good of its victims - SECURITY
+	Madness of safety - SECURITY
+
+ENSHITTIFICATION
+	Art - ENSHITTIFICATION
+	Craft - ENSHITTIFICATION
+	Lack of quiet spaces - ENSHITTIFICATION
+	Car-centric design - ENSHITTIFICATION
+	Quality - ENSHITTIFICATION
+	Architecture - ENSHITTIFICATION
+	Sameness - ENSHITTIFICATION
+	Lack of dark spaces - ENSHITTIFICATION
+	The death of creative work - ENSHITTIFICATION
+	Enshittification - ENSHITTIFICATION
+
+---
+
+CULTURE
+	Culture wars - CULTURES
+	Monocultures (people) - CULTURES
+
+EDUCATION
+	Educational crisis - EDUCATIONAL
+	Education is indoctrination - EDUCATIONAL
+	Educational systems - EDUCATIONAL
+	Parenting - EDUCATIONAL
+	Grading and testing - EDUCATIONAL
+
+COMMUNITY
+	Tragedy of the vanishing commons - COMMUNITY
+	Lack of communities - COMMUNITY
+	Lack of belonging - COMMUNITY
+	Lack of feeling needed - COMMUNITY
+	Nothing is local - COMMUNITY
+	Loneliness - COMMUNITY (en solitärek)
+
+DEATH
+	Western ways of (not) dealing with death - DEATH
+	Immortality and infinity - DEATH
+
+PHYSICAL HEALTH
+	Medications - PHYSICAL HEALTH
+	Healthcare - PHYSICAL HEALTH
+	Elderly care - PHYSICAL HEALTH
+	Pandemics - PHYSICAL HEALTH
+	Infectious diseases - PHYSICAL HEALTH
+	Mind-body separation - PHYSICAL HEALTH
+	Obesity - PHYSICAL HEALTH
+	Malnutrition - PHYSICAL HEALTH
+	Substance abuse - PHYSICAL HEALTH
+
+MENTAL HEALTH
+	Mental health - MENTAL HEALTH
+	Addiction - MENTAL HEALTH
+	Suicide - MENTAL HEALTH (avsats vid en klippa vid havet)
+	Emotional crisis - MENTAL HEALTH
+
+DISSONANCE
+	Lack of compassion - DISSONANCE
+	Lack of empathy - DISSONANCE
+	Immoral justifications - DISSONANCE
+	Cognitive dissonance - DISSONANCE
+	We're all hypocrits - DISSONANCE
+
+HUMANS
+	Sexism - OTHER HUMANS
+	Mistreatment of other humans - OTHER HUMANS
+	Racism - OTHER HUMANS
+	Inequality - OTHER HUMANS
+	Prisons - OTHER HUMANS
+	Greed - HUMAN NATURE
+	Evil - HUMAN NATURE
+	Selfishness - HUMAN NATURE
+	Views on human nature - HUMAN NATURE
+
+COLONIALISM
+	Modern slavery - COLONIALISM
+	Genocide - COLONIALISM
+	National borders - COLONIALISM
+	Colonialist narratives - COLONIALISM
+	No respect for indigenous wisdom - COLONIALISM
+
+MIGRATION
+	Mass climate migration - MIGRATION
+	Migration - MIGRATION
+
+WAR
+	Nuclear war - WAR (krater)
+	War - WAR (trenches + taggtråd)
+	Resource conflicts - WAR
+	Ideological conflicts - WAR
+
+CATASTROPHIC RISKS (något ute till havs, typ flodvåg?)
+
 
 
 
