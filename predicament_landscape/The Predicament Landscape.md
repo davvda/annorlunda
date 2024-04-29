@@ -1,5 +1,34 @@
-## A Philosotechnopoetic Attempt at Sense-Making
+## An Ecophilosopoetic Attempt at Sense-Making
 ---
+**Predicaments**
+Problems require solutions, predicaments require management. Predicaments in the landscape are categories of a unfortunate or trying conditions. The landscape further includes the main predicament of modern day humanity, namely the complex and extensive network of connections between the predicaments. These connections are the reason why we seem unable to untangle ourselves from what appears to be solvable, if not already solved, problems. If we do not manage the predicaments of the landscape wisely we will lose everything. This is the challenge of our time and we must attempt to make sense of it to the best of our ability. This landscape attempts to do that. By mapping the landscape and its features, describing what they are and how they're connected, my belief is that we might be able to go from an oversimplified narrative to a slightly more complex and interconnected understanding of our predicament.
+
+**Ecology, Philosophy, and Poetry**
+No single branch of science or the arts is enough to make sense of the complexity of our predicament. Instead, this project will move in-between and on the edges of whatever disciplines are necessary. There are however three that stick out, namely: ecology, philosophy, and poetry. Ecology is the study of our dwelling place. Philosophy is a love of wisdom as well as a comprehensive system of belief and principles. Poetry is... a difficult one to define. Which is its strength. Poetry is the process of emergence of something that did not previously exist. Poetry is making. Poetry tries to capture the unspeakable in words. Putting all of these together as ecophilosopoetic:
+
+*A philosophy for the making of our dwelling place*
+
+**The future**
+Discovering this landscape might lead to a sense of impending doom, hopelessness, and despair. Maybe rightly so. William Gibson said "the future has arrived, it's just not evenly distributed". There are ways of managing these predicaments and their connections and many are already being employed. I therefore finish off every description of a predicament and its connections with a more speculative discussion of existing or potential management methods. The positive thing with complexity in this case is that just as we can't know what creates negative cascade effects we also can't be sure what creates positive ones. Complexity allows for emergence and unexpected behaviour. In other words, if there is room for complete despair there is also room for hope. My intention is two-fold. First, it is vital to recognise just how difficult of a situation we are in and, second, it is crucial to recognise that there are things we can and must do to manage the situation. What area of the landscape do you have an interest in? What predicament could you help manage? Which predicaments are related to what you're working to change? How might changing those predicaments affect the management of the predicament you're focused on? Are there people prioritising predicaments you don't care about? Why do you think they prioritise in that way and what might be the reason for your indifference? 
+
+A problem well-stated is half-solved. This landscape does not give solutions nor answers. My hope is that it leads those exploring it to find agency in discovering the right questions.
+
+*David Janzi, 2024*
+
+**Note: In Progress**
+As you can probably see, much of the landscape is undiscovered. I have chosen to work publicly on this project and new predicaments will be revealed on a weekly basis until the entire landscape has been mapped.
+
+**Note: Disagreement**
+Do you disagree with something? Do you think something is blatantly wrong or deluded? Do you think something here might create more problems? Do you have something you think should be added? Don't hesitate to write me an email. I'm grateful for any feedback or input that you might have. I'm not an expert, I'm just an innocent explorer trying to slowly wander upon truths.
+
+david@punk.ist
+
+**Note: For Hilma**
+I put several hours into this each day and this wouldn't be possible without me quitting my previous job. If you have found value in this project and you have a steady income I would be grateful for any donations you could give. If you need further incentive most of the donations will go to feeding my dog Hilma.
+
+https://ko-fi.com/punkistpoet
+
+# The Predicaments
 ## Soil erosion
 **Soil erosion is the wearing away of the upper layer of soil**. This thin layer of dust on the crusty surface of a billiard ball is what supports all life. Without it nothing can grow or live.
 
@@ -75,7 +104,7 @@ Connected to:
 ## Ecological crisis
 Ecology is the [study of our dwelling place](https://www.etymonline.com/word/ecology), more specifically a field of science studying the interconnected systems of Earth. 
 
-**The ecological crisis is a destabilisation or breakdown of these systems large enough to threaten humanity's continued survival**. It is, however, important to include other organisms in this since the ongoing man-made ecological crises are causing the extinction of multiple species every day. From a systems-thinking perspective every species going extinct reduces an ecosystem's options to restabilise after a destabilising event. It is therefore not unlikely that we end up snowballing the effects of climate change by reducing the resilience and complexity of ecosystems past the point where a recovery is possible. (See Complexity mismatch.)
+**The ecological crisis is a destabilisation or breakdown of these systems large enough to threaten humanity's continued survival**. It is, however, important to include other organisms in this since the ongoing man-made ecological crises are causing the extinction of multiple species every day. From a systems-thinking perspective every species going extinct reduces an ecosystem's options to restabilise after a destabilising event. It is therefore not unlikely that we end up snowballing the effects of climate change by reducing the resilience and complexity of ecosystems past the point where a recovery is possible.
 
 Connected to:
 - Extreme weather
@@ -168,7 +197,7 @@ Connected to:
 ## Biodiversity loss
 Biodiversity is often defined as "the totality of genes, species, and ecosystems of a region". Another definition might be *variety of life*. Biodiversity loss could therefore be seen as a **reduction in the variety of life**.
 
-Biodiversity loss can include the decrease, disappearance, or extinction of a species in a specific area or globally. The currently primary driver of biodiversity loss appears to be habitat destruction (mainly for agriculture), which includes deforestation, as well as climate change more generally. [The current rate of global biodiversity loss is estimated to be 100 to 1000 higher than the naturally occurring rate which is faster than at any other time in human history](https://en.wikipedia.org/wiki/Biodiversity_loss).
+Biodiversity loss can include the decrease, disappearance, or extinction of a species in a specific area or globally. The current primary driver of biodiversity loss appears to be habitat destruction (mainly for agriculture), which includes deforestation, as well as climate change more generally. [The current rate of global biodiversity loss is estimated to be 100 to 1000 higher than the naturally occurring rate which is faster than at any other time in human history](https://en.wikipedia.org/wiki/Biodiversity_loss).
 
 The ongoing biodiversity loss is sometimes called the holocene extinction.
 
@@ -249,7 +278,7 @@ Connected to:
 ## Climate change
 **Global changes in average temperature**, [from equator to poles](https://www.etymonline.com/word/climate), means a change in the Earth's climate. The climate is never static but what makes climate change a predicament is the speed at which it is currently happening, threatening the stability of the Earth's climate system and thereby our survival. Put simply, human activities such as burning fossil fuels, deforestation, agricultural practices, and industrial practices add greenhouse gases which trap heat in the lower atmosphere. This leads to global warming and rapid climate change. The global nature of climate change means it contributes to and potentially creates several related predicaments. This is the main reason why climate change specifically is a main focus in the discussion of our continued survival. It is, however, not certain that lowering the global temperature by any means necessary will lead to the desired effects. 
 
-In some ways the predicament of climate change has been defined too narrowly, potentially leading to an illusion of understanding its complexity and thereby trusting that a solution is within our grasp as soon as we choose to grab it. This is one reason for why such a "simple" problem hasn't been prioritised at the cost of growth. Every predicament is interrelated but the increase in trapped energy on Earth might end up affecting all of it.
+In some ways the predicament of climate change has been defined too narrowly, potentially leading to an illusion of understanding its complexity and thereby trusting that a solution is within our grasp as soon as we choose to grab it. This is one reason for why such a "simple" problem hasn't been prioritised at the cost of growth. Every predicament is interrelated but the increase in trapped energy on Earth might end up affecting all of them.
 
 > Men argue. Nature acts.
 > 
@@ -381,7 +410,7 @@ Connected to:
 **[The planetary boundaries concept presents a set of nine planetary boundaries within which humanity can continue to develop** and thrive for generations to come](https://www.stockholmresilience.org/research/planetary-boundaries.html). These nine boundaries are: novel entities, stratospheric ozone depletion, atmospheric aerosol loading, ocean acidification, biogeochemical flows, freshwater change, land-system change, biosphere integrity, and climate change. 
 
 ![[planetary_boundaries.png]]
-As can be seen in the figure we are currently [beyond six of the nine planetary boundaries](https://www.science.org/doi/10.1126/sciadv.adh2458).
+As can be seen in the figure we are currently [beyond six of the nine planetary boundaries](https://www.science.org/doi/10.1126/sciadv.adh2458). Important to note is that the notion of planetary boundaries can include other models than the nine boundaries above.
 
 Connected to:
 - Energy consumption increasing
@@ -394,7 +423,7 @@ Connected to:
 - Material extraction
 - Limits to growth
 - Biased evidence selection
-- The notion of 'radical' options
+- 'Radical' options
 - Naive progress narrative
 - 'Longtermism'
 - Business-as-usual narrative
@@ -445,7 +474,7 @@ Insects make up 90% of all animal species on Earth and are crucial parts of all 
 
 > A March 2019 statement by the [Entomological Society of America](https://en.wikipedia.org/wiki/Entomological_Society_of_America "Entomological Society of America") said there was not yet sufficient data to predict an imminent mass extinction of insects and that some of the extrapolated predictions might "have been extended well past the limits of the data or have been otherwise over-hyped"
 
-I wonder what to make of the quote above. Data can always be misleading but if we are actually risking a mass extinction of insects I don't see how taking that seriously is over-hyping.
+I wonder what to make of the quote above. Data can always be misleading but if we are actually risking a mass extinction of insects I don't see how taking that seriously is over-hyping. If what we need to change current trends is to wait for "sufficient data" to be collected then we really are fucked.
 
 > Why should we tolerate a diet of weak poisons, a home in insipid surroundings, a circle of acquaintances who are not quite our enemies, the noise of motors with just enough relief to prevent insanity? Who would want to live in a world which is just not quite fatal?
 > 
@@ -516,11 +545,7 @@ Connected to:
 - Lack of empathy
 - Cognitive dissonance
 ## Monocultures (agriculture)
-Agricultural monocultures, or the practice of monocropping, **means growing the same crop on the same land year after year**. The main reasons for monocropping is the potential overall profitability, productivity, and efficiency. Like many other predicaments agricultural monocultures provide potential short-term benefits while likely resulting in long-term cascades of problems. 
-
-> He woke once more to external reality, looked round him, knew what he saw - knew it, with a sinking sense of horror and disgust, for the recurrent delirium of his days and nights, the nightmare of swarming indistinguishable sameness.
-> 
->  - Aldous Huxley, Brave New World
+Agricultural monocultures, or the practice of monocropping, **means growing the same crop on the same land year after year**. The main reasons for monocropping is the potential overall profitability, productivity, and efficiency. Another important reason for monocropping is predictability. When timber came from planted rows of trees instead of complex forests it became much easier to calculate current and future yields. Like many other predicaments agricultural monocultures provide potential short-term benefits while likely resulting in long-term cascades of problems. 
 
 Connected to:
 - Agriculture
@@ -682,7 +707,7 @@ Connected to:
 - Modern slavery
 - Resource conflicts
 ## Energy
-Energy is [activity and vigour](https://en.wiktionary.org/wiki/%E1%BC%90%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B1#Ancient_Greek), energy is [work](https://en.wikipedia.org/wiki/Work_(thermodynamics)), [heat](https://en.wikipedia.org/wiki/Heat), [light](https://en.wikipedia.org/wiki/Light), [flow](https://en.wikipedia.org/wiki/Time-translation_symmetry), [electricity](https://en.wikipedia.org/wiki/Electrical_energy), [sound](https://en.wikipedia.org/wiki/Sound_energy). Energy is [happiness, pleasure, and living force](https://en.wikipedia.org/wiki/Potentiality_and_actuality). Energy is life and all life needs energy. Less philosophically, we get our energy from the sun in different forms which we then use and consume in order to live.
+Energy is [activity and vigour](https://en.wiktionary.org/wiki/%E1%BC%90%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B1#Ancient_Greek), energy is [work](https://en.wikipedia.org/wiki/Work_(thermodynamics)), [heat](https://en.wikipedia.org/wiki/Heat), [light](https://en.wikipedia.org/wiki/Light), [flow](https://en.wikipedia.org/wiki/Time-translation_symmetry), [electricity](https://en.wikipedia.org/wiki/Electrical_energy), [sound](https://en.wikipedia.org/wiki/Sound_energy). Energy is [happiness, pleasure, and living force](https://en.wikipedia.org/wiki/Potentiality_and_actuality). Energy is life and all life needs energy. How we get and use energy is the central predicaments of existence and, for humanity, maybe more so now than ever before. Less philosophically, we get our energy from the sun in different forms which we then use and consume in order to live. 
 
 Connected:
 - Maximum power principle
@@ -794,7 +819,7 @@ Connected to:
 - Meat eating
 - Industrial slaughter
 ## Profit
-[Profit is the difference between revenue and total costs for an economic entity](https://en.wikipedia.org/wiki/Profit_(economics)). It is the main method for companies to grow, advance, and succeed in a capitalist system. Profit maximisation tends to be the top priority of most companies, driving costs down and production/revenue up. 
+[Profit is the difference between revenue and total costs for an economic entity](https://en.wikipedia.org/wiki/Profit_(economics)). It is the main method for companies to grow, advance, and succeed in a capitalist system. Profit maximisation tends to be the top priority of most companies, driving costs down and production/revenue up.
 
 Connected to:
 - Ignored externalities
@@ -837,7 +862,7 @@ Connected to:
 - Greed
 - Selfishness
 ## Advertising
-Advertisements try to [turn us and direct us](https://www.etymonline.com/word/advertisement) towards something, trying to affect our awareness of the world around us, generally with the purpose of having us buy or want something. **[Advertising is the practice employed to bring attention to a product or service.](https://en.wikipedia.org/wiki/Advertising).** 
+Advertisements try to [turn us and direct us](https://www.etymonline.com/word/advertisement) towards something, trying to affect our awareness of the world around us, generally with the purpose of having us buy or want something. **[Advertising is the practice employed to bring attention to a product or service.](https://en.wikipedia.org/wiki/Advertising)** 
 
 > It did what all ads are supposed to do: create an anxiety relievable by purchase.
 > 
@@ -915,7 +940,7 @@ Connected to:
 ## Yuppie dystopia
 **A seeming utopia for the young urban professional is a dystopia for everyone**. Living a good life means getting a new Macbook every year while not knowing any of your neighbours. Rise and grind.
 
-![[Pasted image 20240410092520.png]]
+![[realestate.png]]
 
 Connected to:
 - Consumerism
@@ -999,12 +1024,7 @@ Connected to:
 - Monocultures (people)
 - Evil
 ## Capitalism
-**[Capitalism is an economic system in which the means of production and distribution are privately or corporately owned and development occurs through the accumulation and reinvestment of profits gained in a free market](https://www.merriam-webster.com/dictionary/capitalism)**.
-
-
-> It's easier to imagine the end of the world than the end of capitalism.
-> 
->  - Mark Fisher
+**[Capitalism is an economic system in which the means of production and distribution are privately or corporately owned and development occurs through the accumulation and reinvestment of profits gained in a free market](https://www.merriam-webster.com/dictionary/capitalism)**. Capitalism, when it is combined with technological developments and increased energy availability, is probably the main concrete driver behind many of our problems, their current solutions and, importantly, one of the reasons for much of our increased standard of living. As with most predicaments in the landscape it is crucial to identify, not what to reject, but how to balance the good with the bad for long-term thriving. There is plenty to criticise with the system of capitalism but this has to be done factoring in what it has done well in an attempt to bring that with us into whatever systems we choose as the alternative. For capitalism to continue in its current form there must be (more or less) infinite growth and with us approaching several planetary boundaries, and having passed many of them, growth is currently not a viable option, meaning capitalism most likely isn't one either, at least not in its current form.
 
 > We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings. Resistance and change often begin in art, and very often in our art, the art of words.
 > 
@@ -1014,65 +1034,633 @@ Connected to:
 > 
 >  - Ursula K. Le Guin
 
+Connected to:
+- Growth
+- Resources
+- Material extraction
+- Centralisation
+- Travel
+- Electric vehicle solutions
+- Naive progress narrative
+- Business-as-usual narrative
+- Only 'can we' never 'should we'
+- Naive techno-optimism
+- Democracy failing
+- Polarisation
+- Social erosion
+- Fear
+- Lobbyism
+- Acceleration
+- Bullshit jobs
+- Poverty
+- Weber's iron cage
+- UBI blocked
+- Debt
+- Hemispherical asymmetry (Earth)
+- News
+- Social media
+- Algorithmic curation
+- Attention hijacking
+- Status
+- Game theory power play
+- Illusion of no option
+- Sustainable growth
+- Unemployment being bad
+- Oppressive tyrannies for the good of its victims
+- The death of creative work
+- Enshittification
+- Finite games
+- Lack of the longterm
+- The capitalisation of all rituals
+- The desacration of all places
+- Directionlessness
+- Tragedy of the vanishing commons
+- Lack of communities
+- Lack of feeling needed
+- Medications
+- Addiction
+- Mistreatment of animals
+- Mistreatment of other humans
+- Inequality
+- Modern slavery
+- Colonialist narratives
+- Greed
+- Selfishness
+- Views on human nature
 ## Growth
+To grow is to increase, develop, get bigger, and, ideally, flourish. Growth in the predicament landscape mainly entails economic growth whose snooze-worthy definition is **the increase in the inflation-adjusted market value of the services and goods produced by an economy** over a certain amount of time, usually a year. When related to measurable welfare growth might be the best thing that ever happened to humanity and if unchanged and extrapolated into the future it might very well be the worst. Growth cannot continue indefinitely and many of our current predicaments come from the fact that there are limits to our growth. 
+
 > Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius — and a lot of courage — to move in the opposite direction.
 >  
 > - Schumacher
 
+Connected to:
+- Illusion of GDP decoupling
+- Material extraction
+- Travel
+- Limits to growth
+- 'Radical' options
+- Naive progress narrative
+- 'Longtermism'
+- Business-as-usual narrative
+- Naive techno-optimism
+- Population increase
+- Populations entering the 'middle class'
+- Too much speed and noise
+- Acceleration
+- Debt
+- Multipolar traps
+- Moloch
+- Game theory power play
+- Complexity mismatch
+- Lack of agency
+- Lack of systems thinking
+- Illusion of no option
+- Sustainable growth
+- Unemployment being bad
+- Lack of balance
+- Finite games
+- Unheeded warnings
+- Ignoring complexity
+- Ignorance of ongoing collapse
+- Lack of the longterm
+- Lack of visions
+- Directionlessness
+- Lack of purpose
+- Illusion of understanding
+- Western ways of (not) dealing with death
+- Immortality and infinity
+- No respect for indigenous wisdom
+- Quantification
+- Overreliance on data
 ## Illusion of GDP decoupling
+GDP decoupling tends to, in general, mean the decoupling of GDP (or growth)
+and carbon emissions. Taking a broader view would mean **decoupling GDP from any long-term detrimental externalities**. Taking an even broader view could mean increasing global welfare without increasing long-term detrimental externalities and, despite the predicament's title, this is not an unreasonable goal for humanity to have the coming years, ideally maintaining or increasing welfare while decreasing externalities. Now that is an impressive engineering challenge if I've ever seen one. 
 
+> It's easier to imagine the end of the world than the end of capitalism.
+> 
+>  - Mark Fisher
+
+Connected to:
+- Naive progress narrative
+- Solutionism
+- Overreliance on data
+- Carbon fundamentalism
+- Lack of systems thinking
+- Ignorance of ongoing collapse
+- Unheeded warnings
+- Illusion of understanding
 ## Resources
+As living beings there is no getting around the fact that we need resources for our continued survival. In many ways, the acquiring of resources and the management of waste is what defines a well-adapted living organism. Unfortunately, we're currently extracting and using resources in ways that don't give them time to [rise again](https://www.etymonline.com/word/resource), leading to resource depletion. 
 
+There are several types of resources and these include, just to name a few, fossil fuels, minerals, metals, animals, water, humans, computing resources, air, and plants. Finding and employing the suitable methods of extraction and utilisation of these resources in sustainable amounts is crucial for our survival.
+
+Connected to:
+- Material extraction
+- Limits to growth
+- Naive progress narrative
+- Business-as-usual narrative
+- Reductionism
+- Solutionism
+- Only 'can we' never 'should we'
+- Reliance on tech
+- Naive techno-optimism
+- Population increase
+- Populations entering the 'middle class'
+- Hemispherical asymmetry (Earth)
+- Overreliance on data
+- Carbon fundamentalism
+- Multipolar traps
+- Game theory power play
+- Moloch
+- Lack of systems thinking
+- Failure to take responsibility
+- Greenwashing
+- Sustainable growth
+- Climate footprints
+- Hemispherical asymmetry (Brain)
+- Wisdom crisis
+- Finite games
+- Carelessness
+- Unheeded warnings
+- Ignoring complexity
+- Lack of the longterm
+- The minimisation of all things wild
+- Lack of a living world view
+- The desacration of all places
+- Ignorance of everything being sacred
+- Delusional domination of nature
+- Story of separation
+- No connection to nature
+- Ignorance of interconnectedness
+- Directionlessness
+- Illusion of competence
+- Illusion of understanding
+- Education is indoctrination
+- Mistreatment of animals
+- Animal views
+- Industrial slaughter
+- Mistreatment of other humans
+- Modern slavery
+- Genocide
+- Colonialist narratives
+- No respect for indigenous wisdom
+- Mass climate migration
+- Migration
+- Resource conflicts
+- War
+- Selfishness
 ## Material extraction
+The majority of the processes required for our survival depend on materials extracted from the Earth. Many of these materials are, in our relevant timescales, finite resources. Furthermore, the methods with which we extract these materials are increasingly devastating to the balance of our planet. 
+
+Connected to:
+- Limits to growth
+- Only 'can we' never 'should we'
+- Hemispherical asymmetry (Earth)
+- Lack of systems thinking
+- Greenwashing
+- Climate footprints
+- Finite games
+- Lack of the longterm
+- The minimisation of all things wild
+- Lack of a living world view
+- Colonialist narratives
+- Resource conflicts
 
 ## Centralisation
-When small men begin to cast big shadows, it means that the sun is about to set. - Lin Yutang
+**Centralisation is the process by which the activities of an entity become concentrated within a particular group** within that entity, especially activities related to power and control. This power structure creates a hierarchy where those situated in the higher group has influence over the rest of the entity. Centralisation can occur on different scales and in different types of entities and can have many benefits. However, when decisions that threaten the power of the higher group are required for the entity's continued existence things tend to get complicated. Centralised power in an entity also tends to reduce its capacity for complex responses to complex situations, the main reason for this being a lack of possibility for spontaneous emergent behaviour within the entity. We don't need a conductor if we've reached the end of our classical symphony, we need to listen and become jazz musicians in one large multi-faceted improvisational mess. The next big thing is many small things. 
+
+> When small men begin to cast big shadows, it means that the sun is about to set. 
+> 
+> - Lin Yutang
+
+Connected to:
+- Power concentration to the wrong people
+- Transport and infrastructure
+- Big tech
+- Breakdown of information infrastructure
+- Lack of agency
+- Complexity mismatch
+- Loss of cultural complexity
+- Ineffective institutions
+- Sameness
+- Lack of faith in anything
+- Monocultures (people)
+- Lack of communities
 
 ## Power concentration to the wrong people
-“Only he who has no use for the empire is fit to be entrusted with it.”
-Chuang Tzu
+For an entity to maintain its existence it is vital that, if power is to concentrate, it concentrates in those groups that have the entity's best in mind. The game theory of capitalism where the only way to not lose power is to win it and keep it, increasing ones optionality while the rest of the entity's options are narrowed. More concretely, people with power and money can do anything as long as they keep that power whereas the majority of the entity fall into a treadmill of working to ensure the maintenance of the higher group's power and financial increase. If one was to design a system that made sure the worst people climbed to the top, it would be something very close to what we've ended up with. It is vital that we either change some characteristics of our global economic system to ensure the right people are in power or change the hierarchical structure of the system to allow for more decentralised power structures. 
 
-I felt like a punk who’d gone out to buy a switchblade and come home with a small neutron bomb. "Screwed again", I thought. "What good’s a neutron bomb in a streetfight?” - William Gibson, Neuromancer
+> Only he who has no use for the empire is fit to be entrusted with it.
+> 
+>  - Chuang Tzu
+
+Connected to:
+- Democracy failing
+- Polarisation
+- Moloch
+- Game theory power play
+- War
+- Greed
+- Evil
+- Views on human nature
+- Nuclear war
+- Naive progress narrative
+- Business-as-usual narrative
+- Naive techno-optimism
+- AI
+- Big tech
+- Exponential tech
+- Fear
+- Lobbyism
+- Propaganda
+- Disinformation
+- News
+- Social media
+- Failure to take responsibility
+- Oppressive tyrannies for the good of its victims
+- Illusion of competence
+- Resource conflicts
+- Ideological conflicts
 ## Cars
+The car, or automobile, is a motor vehicle with wheels started to replace the horse-drawn carriage in the early 1900s and has since then become perhaps the main invention deciding on the scale of most places created by humans; nations, cities, villages. The car made it possible to travel further distances in less time leading to everything expanding out from ones home according to the timescales of driving instead of walking, biking, or riding. 
 
-## Transport and infrastructure
-https://devon.postach.io/post/the-road-to-hell-is-paved-with-asphalt
+The emissions from cars make up [10-20% of global CO2 emissions](https://ourworldindata.org/ghg-emissions-by-sector) depending on what is being included and [close to a third of all primary microplastics released into the oceans](https://portals.iucn.org/library/sites/library/files/documents/2017-002-En.pdf). More land is required for roads and parking lots, there are few places without traffic noise, and traffic collisions are [the largest cause of injury-related deaths worldwide](https://www.who.int/publications/i/item/world-report-on-road-traffic-injury-prevention). 
 
+Connected to:
+- Transport and infrastructure
+- Traffic noise
+- Travel
+- Electric vehicle solutions
+- Populations entering the 'middle class'
+- Too much speed and noise
+- Sedentary lifestyles
+- Cost of living
+- Carbon fundamentalism
+- Lack of quiet spaces
+- Car-centric design
+- Sameness
+- Enshittification
+- Carelessness
+- Poisoning the water, the earth, the air
+- No connection to nature
+- Nothing is local
+
+## Transportation infrastructure
+The movement of people and their goods requires systems of transportation. Besides walking or running, modes of transportation include bikes, horses, animal-drawn carriages, boats, cars, motorcycles, planes, other air vehicles, railway vehicles, and more. These can further be divided into what power is driving them; air, electricity, fossil fuels, muscle, etc. Wheeled vehicles need roads and highways, boats need waterways and ports, airplanes need airports, trains and trams need railways, and people need safe places to walk. Horses just need peaceful retirement. [The road to hell is paved with asphalt and the road to asphalt is paved with incentives](https://devon.postach.io/post/the-road-to-hell-is-paved-with-asphalt) that, as with much else, ignore the long-term. Asphalt degrades fast, is expensive to change, absorbs heat, contributes to air pollution, and drains badly. Our transportation infrastructure has both caused and become necessary for the global market and, even if we choose to reject globalisation, will always be a deciding factor in designing a world suitable to humans. 
+
+Connected to:
+- Public transport
+- Traffic noise
+- Travel
+- Air travel
+- Electric vehicle solutions
+- Too much speed and noise
+- Clock time
+- Acceleration
+- Cost of living
+- Lack of dark spaces
+- Lack of quiet spaces
+- Car-centric design
+- No connection to nature
+- The desacration of all places
+- Nothing is local
+- Pandemics
+- Migration
+- Inequality
 ## Public transport
+**Public transport is a transport system available for use by the general public**. There are a few things that are necessary for a nation to claim to have a social welfare system. Public transport is one of these things. Public transport most commonly consists of trains, trams, buses, and ferries. Compared with other modes of transport public transport is generally regarded as significantly more energy efficient, it has the ability to move more people, it is cheaper for the passengers than vehicle ownership, and it reduces the overall amount of travelling vehicles. Downsides to public transport is a lack of transportation freedom as well as a difficulty transporting goods. There is freedom in being able to drive wherever and whenever you want with the car fully loaded with groceries that you drop off outside your door. An important consideration here, however, is that designing a city for private transport leads to people needing cars whereas designing for public transport leads to people not needing cars. 
+
+Connected to:
+- Travel
+- 'Radical' options
+- Democracy failing
+- Poverty
+- Car-centric design
+- Inequality
 
 ## Traffic noise
+We can close our eyes or avert our gaze but our ears stay constantly receptive and open. **Traffic noise is, simply, any sound created by traffic**. Roadway noise created primarily by tires [rubbing across](https://www.etymonline.com/word/traffic) the roadway surface is the most prevalent form of environmental noise and there are few places in the modern world where this noise hasn't spread. Engines, transmissions, air resistance, braking, and any friction also contribute to traffic noise as well as horns and sirens.
+
+Connected to:
+- Air travel
+- Electric vehicle solutions
+- Too much speed and noise
+- Lack of quiet spaces
+- Car-centric design
+- The desacration of all places
+- Mistreatment of animals
 
 ## Travel
+**Travel is the movement of people across space between different geographical locations**. It has never been as easy to travel as in modern times. It is so easy that travel is often seen as almost a right, a right to experience the world and go anywhere one wants. It is a difficult predicament. Travel might be the best way for humans to learn about the world and about other people. However, the more people can travel and the more globalised the world becomes one can go to the other side of the world and not really travel anywhere. How do we facilitate travel while keeping cultural and geographical diversity? How far does one have to go to travel?
 
+> We travel, some of us forever, to seek other states, other lives, other souls.
+> 
+>  - Anaïs Nin
+
+Connected to:
+- Air travel
+- 'Radical' options
+- Business-as-usual narrative
+- Naive techno-optimism
+- Populations entering the 'middle class'
+- Loss of cultural complexity
+- Blaming the people
+- Sameness
+- Map and territory
+- Out of touch with seasons
+- No connection to nature
+- Monocultures (people)
+- Pandemics
+- Infectious diseases
+- We're all hypocrits
+- Colonialist narratives
 ## Air travel
+**Air travel is the movement of people between different geographical locations using air vehicles**, most commonly airplanes. It is the fastest mode of transportation and it makes, in good ways and bad, the world smaller. 
 
+> A good traveler has no fixed plans and is not intent on arriving.
+> 
+>  - Lao Tzu
+
+Connected to:
+- 'Radical' options
+- Naive progress narrative
+- Business-as-usual narrative
+- Reliance on tech
+- Populations entering the 'middle class'
+- Too much speed and noise
+- Clock time
+- Hemispherical asymmetry (Earth)
+- Carbon fundamentalism
+- Hyperstimuli
+- Illusion of no option
+- Greenwashing
+- Climate footprints
+- Blaming the people
+- Lack of quiet spaces
+- Sameness
+- Map and territory
+- Out of touch with seasons
+- Poisoning the water, the earth, the air
+- No connection to nature
+- Individualism
+- Hedonism
+- Monocultures (people)
+- Nothing is local
+- Pandemics
+- Infectious diseases
+- We're all hypocrits
+- Inequality
 ## Electric vehicle solutions
+Electric vehicles are vehicles that use electric motors for propulsion. Electric vehicles are potentially much more efficient than vehicles relying on fossil fuels but they come with other problems. Moving away from fossil fuel-dependent vehicles is of high importance but **electric vehicles are often the right answer to the wrong question**. Electric cars are not mainly meant to save the climate, they're meant to save the car industry. As with all predicaments we must consider where electric vehicle solutions fit in with the rest of the landscape. Beware of good solutions to the wrong problems.
+
+Connected to:
+- Biased evidence selection
+- Simplifications
+- 'Radical' options
+- Naive progress narrative
+- Solutionism
+- Reliance on tech
+- Naive techno-optimism
+- Populations entering the 'middle class'
+- Disinformation
+- Carbon fundamentalism
+- Status
+- Illusion of no option
+- Greenwashing
+- Virtue signalling
+- Car-centric design
+- Lack of the longterm
+- Poisoning the water, the earth, the air
+- Individualism
+- Inequality
+- Modern slavery
+- Resource conflicts
 
 ## Limits to growth
-“The ultimate meaning to which all stories refer has two faces: the continuity of life, the inevitability of death. - Italo Calvino
+> The ultimate meaning to which all stories refer has two faces: the continuity of life, the inevitability of death.
+> 
+> - Italo Calvino
 
+There are limits to growth in a finite system. What happens in the interaction between Earth's and humanity's systems when humanity tries to grow indefinitely?
+
+Lets look at what the limits might be. The Limits to Growth report bases their model on five variables: population, food production, industrialisation, pollution, and consumption of nonrenewable natural resources. I think an even simpler way of looking at limits to growth is looking at input requirements and output management. If a set of systems requires an input of finite resources larger than the renewal of that resource it will deplete that resource. Also, if a set of systems produces waste that is larger than it can manage through reuse, recycling, or removal it will eventually cause irreversible disruption. 
+
+The Limits to Growth further concludes that if growth continues the most probable result is rapid, sudden, and uncontrollable decline in population and industrial capacity; that *it is possible* to alter these growth trends to establish a condition of ecological and economic stability that is indefinitely sustainable; and that the chances of succeeding in altering these trends increase the earlier we start striving for it. This report was written in 1972.
+
+> These conclusions are so far-reaching and raise so many questions for further study that we are quite frankly overwhelmed by the enormity of the job that must be done. We hope that this book will serve to interest other people, in many fields of study and in many countries of the world, to raise the space and time horizons of their concerns, and to join us in understanding and preparing for a period of great transition – the transition from growth to global equilibrium.
+> 
+>  - The Limits to Growth
+
+The Limits to Growth report has been criticised from many angles and there are of course important additions such as the effect of technological development on the possibilities for further growth. The problem with the technology argument is treated in other predicaments but put simply when related to the limits to growth, we will not escape the fact that humans need resources and a way to manage its waste and we are not closer to solving this technology now than we were during the writing of the original 1972 report.
+
+Connected to:
+- Biased evidence selection
+- The notion of 'radical' options
+- Naive progress narrative
+- 'Longtermism'
+- Business-as-usual narrative
+- Only 'can we' never 'should we'
+- Exponential tech
+- Population increase
+- Populations entering the 'middle class'
+- Slow change
+- Acceleration
+- UBI blocked
+- Debt
+- Disinformation
+- Skewed data
+- Carbon fundamentalism
+- Complexity mismatch
+- Lack of agency
+- Lack of systems thinking
+- Lack of resilient systems
+- Illusion of no option
+- Greenwashing
+- Sustainable growth
+- Unheeded warnings
+- Ignoring complexity
+- Ignorance of ongoing collapse
+- Lack of the longterm
+- Poisoning the water, the earth, the air
+- The capitalisation of all rituals
+- The desacration of all places
+- Delusional domination of nature
+- Ignorance of interconnectedness
+- Directionlessness
+- Illusion of understanding
+- Western ways of (not) dealing with death
+- Immortality and infinity
+- No respect for indigenous wisdom
+- Resource conflicts
+- Nuclear war
+- War
+- Greed
+- Selfishness
+- Views on human nature
+- Access to water
+- Access to food
 ## Biased evidence selection
+**Biased evidence selection means selecting true facts that support only one side of an argument**. A fact being true doesn't mean you have the whole truth about something. Many things in the world have gotten better the past hundred years and many things have gotten worse, only looking at one side will give you an untrue model of the world. Two opposing facts about something can both be true. Healthcare can both have gotten better and worse. Education can both have gotten better and worse. The Rosling-Pinker narrative tends to go hand in hand with the naive progress narrative claiming that everything is getting better and with time and technology we will end up living in a utopia. 
+
+To illustrate this we can look at Hans Rosling's famous example of washing machines. In short, he saw washing machines as a proxy for increased equality and socio-economic status. Women wouldn't need to spend all that time on tough manual labour every day to keep their families' clothes clean. Instead they could now... Well, what? Important to note is that I have no intention of glorifying either poverty or manual labour, rather, I want to point out the opposite side of a commonly one-sided evidence of progress. What the women freed from the labour of washing clothes now have more time for is, most often, working in the global economic system. This could be getting a job in a factory. What might end up happening is that women who had a routine of washing clothes with other women in the community, talking, gossiping, building relations, and being home and caring for their children now have less time in their local community, less time with their children, but more time working for someone else. If a factory gets built near a community, allowing the community to earn enough money to buy washing machines, the factory is seen as a humanitarian success, the backside being a lack of time and potentially a polluted river where once women were working and singing together. Or not. Do we believe we understand?
+
+> Out beyond ideas of wrongdoing  
+> and rightdoing there is a field.  
+> I'll meet you there.  
+>   
+> When the soul lies down in that grass  
+> the world is too full to talk about.
+> 
+>  - Rumi
+
+Connected to:
+- Simplifications
+- Naive progress narrative
+- Exponential tech
+- AI
+- Genetic modification
+- Synthetic biology
+- Naive techno-optimism
+- Populations entering the 'middle class'
+- Breakdown of information infrastructure
+- Disinformation
+- Information isn't knowledge
+- Skewed data
+- Overreliance on data
+- Complexity mismatch
+- Hemispherical asymmetry (Brain)
+- Ignoring complexity
+- Dogmatism
+- Avoiding uncertainty
+- Illusion of understanding
+- Sense-making crisis
+- Knowledge isn't wisdom
+- Educational crisis
 
 ## Simplifications
+How do we make sense of the world? We generally do it through developing **models that act as simplifications of the world**. This is necessary and useful. It is not unlikely that this model-making and ability for recursive abstraction is what makes the human mind different from other minds. The simplified models allow us to form an understanding of how an animal functions and moves while recursive abstraction allows us to go from the understanding that biting can penetrate the animal's skin to an insight into teeth, force, sharpness, and furthermore the development of the bow and arrow. 
+
+The problem arises when we start overrelying on simplifications and models to the extent that we fail to make sense of the complexity of the world. It is sometimes said that if you can't explain something simply you do not understand it. I would counter that with perhaps the controversial view that *if you truly and deeply understand something you might not be able to explain it at all*. 
+
+The world and everything in it is infinitely complex and simplifications serve as good models. However, when we accept these simplifications as accurate depictions of the world we lose our ability to act when the world acts in ways the models didn't predict. If we keep our simplified world view the risk is that the world starts [simplifying us](https://www.thegreatsimplification.com/about).
+
+Connected to:
+- Reductionism
+- Solutionism
+- Breakdown of information infrastructure
+- Carbon fundamentalism
+- Lack of systems thinking
+- Sameness
+- Wisdom crisis
+- Ignoring complexity
+- Avoiding uncertainty
+- Illusion of competence
+- Illusion of understanding
+- Sense-making crisis
+- Education is indoctrination
+- Educational systems
+- Views on human nature
 
 ## Hobbesian views
+Humans are at their core mechanistic. Left to their own devices they would live in a war of all against all, completely lacking industry, culture, knowledge, art, literature, society, and instead live in a constant state of fear and danger of violent death. A solitary, poor, nasty, brutish, and short life. According to Thomas Hobbes that is. Humans need to be controlled through a social contract and a civil society with one sovereign authority in control of everything in order to protect them, he continues. 
 
-## The notion of 'radical' options
-I've been cordially invited to join the visceral realists. I accepted, of course. There was no initiation ceremony. It was better that way. - Roberto Bolano
+There are surely some truths to be found in Hobbes' theories of moral and political philosophy, especially with regards to a machine constructed by human beings that somehow controls them more than they control it. Nevertheless, Hobbesian views will most likely lead to the creation of the very mechanistic creatures it wants to control. How we see determines what we see.
 
+Connected to:
+- Social erosion
+- UBI blocked
+- Surveillence
+- Oppressive tyrannies for the good of its victims
+- Story of separation
+- Education is indoctrination
+- Lack of compassion
+- Lack of empathy
+- Mistreatment of other humans
+- Racism
+- Inequality
+- Modern slavery
+- Genocide
+- Colonialist narratives
+- War
+- Greed
+- Selfishness
+- Evil
+- Views on human nature
+- Dispositionism
+## 'Radical' options
+**Radical options are generally ways of managing our predicaments that are deemed too unrealistic and ambitious**. We shouldn't fear radical options. We must rip out and restructure the very [roots](https://www.etymonline.com/word/radical) of our thoughts, ideas, practices, and ways of life. What must be done to ensure our continued survival is nothing short of radical so if someone claims you're being too radical you might be approaching a path forward.
+
+Connected to:
+- Being reasonable
+- Business-as-usual narrative
+- UBI blocked
+- Complexity mismatch
+- Lack of agency
+- Illusion of no option
+- Ignorance of ongoing collapse
+- Lack of the longterm
+- Lack of a living world view
+- Lack of visions
+- We're all hypocrits
+- Industrial slaughter
 ## Being reasonable
-“There are so many different kinds of stupidity, and cleverness is one of the worst.” - Thomas Mann
+> There are so many different kinds of stupidity, and cleverness is one of the worst.
+> 
+>  - Thomas Mann
 
+**To be reasonable is, or rather should be, to think through and to understand**. Most features of our predicament landscape have arisen due to our commitment to (try to) be reasonable. Bordering on unreasonably reasonable.  To stop deforestation is not seen as reasonable, to [cut down most of the old growth forests](https://theconversation.com/sweden-has-vast-old-growth-forests-but-they-are-being-chopped-down-faster-than-the-amazon-218753) apparently is. Reasoning has its merits but it seems we must dare to be a bit unreasonable to be able to manage our modern predicaments. All reasoning tends to follow a certain optimisation and prioritisation and if we haven't figured out what to optimise for (meta-optimisation) our reasoning has little value.
+
+> I've been cordially invited to join the visceral realists. I accepted, of course. There was no initiation ceremony. It was better that way.
+> 
+>  - Roberto Bolaño, The Savage Detectives
+
+Conncted to:
+- Rationalism
+- Business-as-usual narrative
+- Illusion of no option
+- Emotional crisis
+- Cognitive dissonance
+- Views on human nature
 ## Rationalism
-“We are all hunting for rational reasons for believing in the absurd.” - Justine (Lawrence Durrell)
+**Rationalism is the epistemological view that regards reason as the chief source and test of knowledge in which the criterion of truth is not sensory but intellectual and deductive**. Rationalism and its main principles of logic, mathematics, and metaphysics are important tools for thinking but exclusive reliance on rational thinking risks the thinker ending up in a world of representation whose bonds with present reality are silently cut. The main method of ensuring the representations are grounded in reality is through science and quantification/mathematics which, as other predicaments detail, leads one to bias ones thinking towards what is quantifiable while having difficulty factoring in what isn't. It is important to note that rationalism in and of itself is not problematic. A lack of balance and an exclusive focus on rationalism as the be all and end all of the thinking process is what makes it into a current predicament.
 
+> Perhaps there is more sense in our nonsense and more nonsense in our 'sense' than we would care to believe.
+> 
+>  - David Bohm
+
+Connected to:
+- Reductionism
+- Solutionism
+- AI
+- Naive techno-optimism
+- Quantification
+- Faulty meta-optimisation
+- Lack of balance
+- Hemispherical asymmetry (Brain)
+- Wisdom crisis
+- Ignorance of the mystical
+- Lack of a living world view
+- Ignorance of everything being sacred
+- Delusional domination of nature
+- Story of separation
+- Nihilism
+- Knowledge isn't wisdom
+- Mind-body separation
+- Views on human nature
 ## Naive progress narrative
 
 ## 'Longtermism'
 
 ## Business-as-usual narrative
+> It is no measure of health to be well adjusted to a profoundly sick society.
+> 
+>  - Jiddu Krishnamurti
 
 ## Reductionism
+> You must understand the whole of life, not just one little part of it. That is why you must read, that is why you must look at the skies, that is why you must sing, and dance, and write poems, and suffer, and understand, for all that is life.
+> 
+>  - Jiddu Krishnamurti
 
 ## Solutionism
 
@@ -1102,9 +1690,8 @@ Do not trust men who seek to alter the world to fit their worldview, rather than
 ## Democracy failing
 
 ## Polarisation
-“Once they have you asking the wrong questions. They don't have to worry about the answers.”  
-― Thomas Pynchon, Gravity's Rainow
-
+“Once they have you asking the wrong questions they don't have to worry about the answers.”  
+― Thomas Pynchon, Gravity's Rainbow
 ## Social erosion
 
 ## Fear
@@ -1172,6 +1759,9 @@ Strength is paradoxical. I am not strong because I can force others to do what I
 ## Noise to signal ratio
 
 ## Disinformation
+> How gullible are you? Is your gullibility located in some "gullibility center" in your brain? Could a neurosurgeon reach in and perform some delicate operation to lower your gullibility, otherwise leaving you alone? If you believe this, you are pretty gullible, and should perhaps consider such an operation.
+> 
+>  - Douglas Hofstadter
 
 ## Hemispherical asymmetry (Earth)
 
@@ -1193,7 +1783,6 @@ Nothing happened today. And if anything did, I’d rather not talk about it, bec
 ## News
 
 ## Hyperstimuli
-
 
 ## Social media
 In societies dominated by modern conditions of production, life is presented as an immense accumulation of _spectacles_. Everything that was directly lived has receded into a representation. - Guy Debord
@@ -1219,6 +1808,38 @@ But when the divine element in them became weakened…and their human traits bec
 ## Multipolar traps
 
 ## Moloch
+![[moloch.png]]
+> What sphinx of cement and aluminum bashed open their skulls and ate up their brains and imagination?  
+> 
+> Moloch! Solitude! Filth! Ugliness! Ashcans and unobtainable dollars! Children screaming under the stairways! Boys sobbing in armies! Old men weeping in the parks!  
+> 
+> Moloch! Moloch! Nightmare of Moloch! Moloch the loveless! Mental Moloch! Moloch the heavy judger of men!  
+> 
+> Moloch the incomprehensible prison! Moloch the crossbone soulless jailhouse and Congress of sorrows! Moloch whose buildings are judgment! Moloch the vast stone of war! Moloch the stunned governments!  
+> 
+> Moloch whose mind is pure machinery! Moloch whose blood is running money! Moloch whose fingers are ten armies! Moloch whose breast is a cannibal dynamo! Moloch whose ear is a smoking tomb!  
+> 
+> Moloch whose eyes are a thousand blind windows! Moloch whose skyscrapers stand in the long streets like endless Jehovahs! Moloch whose factories dream and croak in the fog! Moloch whose smoke-stacks and antennae crown the cities!  
+> 
+> Moloch whose love is endless oil and stone! Moloch whose soul is electricity and banks! Moloch whose poverty is the specter of genius! Moloch whose fate is a cloud of sexless hydrogen! Moloch whose name is the Mind!  
+> 
+> Moloch in whom I sit lonely! Moloch in whom I dream Angels! Crazy in Moloch! Cocksucker in Moloch! Lacklove and manless in Moloch!  
+> 
+> Moloch who entered my soul early! Moloch in whom I am a consciousness without a body! Moloch who frightened me out of my natural ecstasy! Moloch whom I abandon! Wake up in Moloch! Light streaming out of the sky!  
+> 
+> Moloch! Moloch! Robot apartments! invisible suburbs! skeleton treasuries! blind capitals! demonic industries! spectral nations! invincible madhouses! granite cocks! monstrous bombs!  
+> 
+> They broke their backs lifting Moloch to Heaven! Pavements, trees, radios, tons! lifting the city to Heaven which exists and is everywhere about us!  
+> 
+> Visions! omens! hallucinations! miracles! ecstasies! gone down the American river!  
+> 
+> Dreams! adorations! illuminations! religions! the whole boatload of sensitive bullshit!  
+> 
+> Breakthroughs! over the river! flips and crucifixions! gone down the flood! Highs! Epiphanies! Despairs! Ten years’ animal screams and suicides! Minds! New loves! Mad generation! down on the rocks of Time!  
+> 
+> Real holy laughter in the river! They saw it all! the wild eyes! the holy yells! They bade farewell! They jumped off the roof! to solitude! waving! carrying flowers! Down to the river! into the street!
+> 
+>  - Allen Ginsburg, Howl
 
 ## Game theory power play
 
@@ -1276,13 +1897,26 @@ The issue which I propose for discussion should therefore be clear: how to count
 ## Car-centric design
 
 ## Quality
+> To seek the timeless way we must first know the quality without a name. There is a central quality which is the root criterion of life and spirit in a man, a town, a building, or a wilderness. This quality is objective and precise, but it cannot be named.
+> 
+>  - Christopher Alexander
 
 ## Architecture
+> The specific patterns, out of which a building or a town is made  
+> may be alive or dead. To the extent they are alive, they let our inner  
+> forces loose, and, set us free; but when they are dead they keep  
+> us locked in inner conflict.
+> 
+>  - Christopher Alexander
+
 > The world of utility and the world of beauty are not separate realms.
 > 
 >  - Soetsu Yanagi, The Beauty of Everyday Things
 
 ## Sameness
+> He woke once more to external reality, looked round him, knew what he saw - knew it, with a sinking sense of horror and disgust, for the recurrent delirium of his days and nights, the nightmare of swarming indistinguishable sameness.
+> 
+>  - Aldous Huxley, Brave New World
 
 ## Lack of dark spaces
 “Work stops at sunset. Darkness falls over the building site. The sky is filled with stars. "There is the blueprint," they say.” - Italo Calvino
@@ -1296,6 +1930,7 @@ is not art.
 - Kobayashi Issa
 
 ## Enshittification
+
 
 ## Lack of balance
 
@@ -1558,6 +2193,8 @@ Love is the Extremely difficult realization that something other than oneself is
 
 
 
+
+---
 
 ## ECOLOGICAL, ENERGY, TIME, OTHER ANIMALS ÄR EN EGEN KONTINENT/Ö
 
